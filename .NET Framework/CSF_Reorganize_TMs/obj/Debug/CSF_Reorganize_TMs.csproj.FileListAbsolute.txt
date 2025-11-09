@@ -1,0 +1,11 @@
+E:\Training\2025\C#\CSF_Reorganize_TMs\bin\Debug\NLog.config
+E:\Training\2025\C#\CSF_Reorganize_TMs\bin\Debug\CSF_Reorganize_TMs.exe.config
+E:\Training\2025\C#\CSF_Reorganize_TMs\bin\Debug\CSF_Reorganize_TMs.exe
+E:\Training\2025\C#\CSF_Reorganize_TMs\bin\Debug\CSF_Reorganize_TMs.pdb
+E:\Training\2025\C#\CSF_Reorganize_TMs\bin\Debug\NLog.dll
+E:\Training\2025\C#\CSF_Reorganize_TMs\bin\Debug\NLog.xml
+E:\Training\2025\C#\CSF_Reorganize_TMs\obj\Debug\CSF_Reorganize_TMs.csproj.AssemblyReference.cache
+E:\Training\2025\C#\CSF_Reorganize_TMs\obj\Debug\CSF_Reorganize_TMs.csproj.CoreCompileInputs.cache
+E:\Training\2025\C#\CSF_Reorganize_TMs\obj\Debug\CSF_Reor.5321777C.Up2Date
+E:\Training\2025\C#\CSF_Reorganize_TMs\obj\Debug\CSF_Reorganize_TMs.exe
+E:\Training\2025\C#\CSF_Reorganize_TMs\obj\Debug\CSF_Reorganize_TMs.pdb

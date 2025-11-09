@@ -1,0 +1,13 @@
+C:\Users\maliao\source\repos\Beckman_reorder_Regex_list\Beckman_reorder_Regex_list\bin\Debug\netcoreapp2.1\Beckman_reorder_Regex_list.deps.json
+C:\Users\maliao\source\repos\Beckman_reorder_Regex_list\Beckman_reorder_Regex_list\bin\Debug\netcoreapp2.1\Beckman_reorder_Regex_list.runtimeconfig.json
+C:\Users\maliao\source\repos\Beckman_reorder_Regex_list\Beckman_reorder_Regex_list\bin\Debug\netcoreapp2.1\Beckman_reorder_Regex_list.runtimeconfig.dev.json
+C:\Users\maliao\source\repos\Beckman_reorder_Regex_list\Beckman_reorder_Regex_list\bin\Debug\netcoreapp2.1\Beckman_reorder_Regex_list.dll
+C:\Users\maliao\source\repos\Beckman_reorder_Regex_list\Beckman_reorder_Regex_list\obj\Debug\netcoreapp2.1\Beckman_reorder_Regex_list.csprojAssemblyReference.cache
+C:\Users\maliao\source\repos\Beckman_reorder_Regex_list\Beckman_reorder_Regex_list\obj\Debug\netcoreapp2.1\Beckman_reorder_Regex_list.csproj.CoreCompileInputs.cache
+C:\Users\maliao\source\repos\Beckman_reorder_Regex_list\Beckman_reorder_Regex_list\obj\Debug\netcoreapp2.1\Beckman_reorder_Regex_list.AssemblyInfoInputs.cache
+C:\Users\maliao\source\repos\Beckman_reorder_Regex_list\Beckman_reorder_Regex_list\obj\Debug\netcoreapp2.1\Beckman_reorder_Regex_list.AssemblyInfo.cs
+C:\Users\maliao\source\repos\Beckman_reorder_Regex_list\Beckman_reorder_Regex_list\bin\Debug\netcoreapp2.1\Beckman_reorder_Regex_list.dll.config
+C:\Users\maliao\source\repos\Beckman_reorder_Regex_list\Beckman_reorder_Regex_list\bin\Debug\netcoreapp2.1\Beckman_reorder_Regex_list.pdb
+C:\Users\maliao\source\repos\Beckman_reorder_Regex_list\Beckman_reorder_Regex_list\obj\Debug\netcoreapp2.1\Beckman_reorder_Regex_list.dll
+C:\Users\maliao\source\repos\Beckman_reorder_Regex_list\Beckman_reorder_Regex_list\obj\Debug\netcoreapp2.1\Beckman_reorder_Regex_list.pdb
+C:\Users\maliao\source\repos\Beckman_reorder_Regex_list\Beckman_reorder_Regex_list\bin\Debug\netcoreapp2.1\log4net.config

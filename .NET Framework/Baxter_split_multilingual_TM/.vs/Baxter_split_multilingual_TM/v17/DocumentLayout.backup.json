@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Training\\2025\\.NET Framework\\Baxter_split_multilingual_TM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10935998-FC3D-4123-A76C-95D3CBCA8DBC}|Baxter_split_multilingual_TM\\Baxter_split_multilingual_TM.csproj|e:\\training\\2025\\.net framework\\baxter_split_multilingual_tm\\baxter_split_multilingual_tm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10935998-FC3D-4123-A76C-95D3CBCA8DBC}|Baxter_split_multilingual_TM\\Baxter_split_multilingual_TM.csproj|solutionrelative:baxter_split_multilingual_tm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Framework\\Baxter_split_multilingual_TM\\Baxter_split_multilingual_TM\\Program.cs",
+              "RelativeDocumentMoniker": "Baxter_split_multilingual_TM\\Program.cs",
+              "ToolTip": "E:\\Training\\2025\\.NET Framework\\Baxter_split_multilingual_TM\\Baxter_split_multilingual_TM\\Program.cs",
+              "RelativeToolTip": "Baxter_split_multilingual_TM\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwFcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:42:23.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

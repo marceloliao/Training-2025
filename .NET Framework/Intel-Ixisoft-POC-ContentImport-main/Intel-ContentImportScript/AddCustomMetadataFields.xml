@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<setup version="2.0">
+  <fields>
+    <field element="FIXIASOFTID" issystem="false" isbasic="true" ismandatory="false" isindexable="true">
+      <label>Ixiasoft ID</label>
+      <description>Is used to store id for maps, topics, illustrations</description>
+      <typestring ismultivalue="false" />
+    </field>
+    <field element="FIXIASOFTMODIFIEDBY" issystem="false" isbasic="true" ismandatory="false" isindexable="false">
+      <label>Modified by</label>
+      <description>Is used to store the Modified information</description>
+      <typecardreference ismultivalue="true" />
+    </field>
+    <field element="FIXIASOFTSYSTEMCOMMENTS" issystem="false" isbasic="true" ismandatory="false" isindexable="false">
+      <label>Ixiasoft System Comments</label>
+      <description>Is used to store system comments from import</description>
+      <typestring ismultivalue="false" />
+    </field>
+    <field element="FIXIASOFTUSERCOMMENTS" issystem="false" isbasic="true" ismandatory="false" isindexable="false">
+      <label>Ixiasoft User Comments</label>
+      <description>Is used to store user comments from import</description>
+      <typestring ismultivalue="false" />
+    </field>
+    <field element="FIXIASOFTCREATEDDATE" issystem="false" isbasic="true" ismandatory="false" isindexable="true">
+      <label>Ixiasoft Created date</label>
+      <description>Is used to store the due date on the version of maps, topics, illustrations and publications</description>
+      <typedate ismultivalue="false" />
+    </field>
+    <field element="FIXIASOFTMODIFIEDDATE" issystem="false" isbasic="true" ismandatory="false" isindexable="true">
+      <label>Ixiasoft Modified date</label>
+      <description>Is used to store the due date on the version of maps, topics, illustrations and publications</description>
+      <typedate ismultivalue="false" />
+    </field>
+  </fields>
+  <cardtypes>
+    <cardtype element="CTMASTERV">
+      <fielddefinition>
+        <cardtypefield element="FIXIASOFTID" />
+        <cardtypefield element="FIXIASOFTMODIFIEDBY">
+          <cardreferencefield>
+            <memberdefinition>
+              <member element="USER" />
+            </memberdefinition>
+          </cardreferencefield>
+        </cardtypefield>
+        <cardtypefield element="FIXIASOFTSYSTEMCOMMENTS" />
+        <cardtypefield element="FIXIASOFTUSERCOMMENTS" />
+        <cardtypefield element="FIXIASOFTCREATEDDATE" />
+        <cardtypefield element="FIXIASOFTMODIFIEDDATE" />
+      </fielddefinition>
+    </cardtype>
+    <cardtype element="CTMAPV">
+      <fielddefinition>
+        <cardtypefield element="FIXIASOFTID" />
+        <cardtypefield element="FIXIASOFTMODIFIEDBY">
+          <cardreferencefield>
+            <memberdefinition>
+              <member element="USER" />
+            </memberdefinition>
+          </cardreferencefield>
+        </cardtypefield>
+        <cardtypefield element="FIXIASOFTSYSTEMCOMMENTS" />
+        <cardtypefield element="FIXIASOFTUSERCOMMENTS" />
+        <cardtypefield element="FIXIASOFTCREATEDDATE" />
+        <cardtypefield element="FIXIASOFTMODIFIEDDATE" />
+      </fielddefinition>
+    </cardtype>
+    <cardtype element="CTIMGV">
+      <fielddefinition>
+        <cardtypefield element="FIXIASOFTID" />
+        <cardtypefield element="FIXIASOFTMODIFIEDBY">
+          <cardreferencefield>
+            <memberdefinition>
+              <member element="USER" />
+            </memberdefinition>
+          </cardreferencefield>
+        </cardtypefield>
+        <cardtypefield element="FIXIASOFTSYSTEMCOMMENTS" />
+        <cardtypefield element="FIXIASOFTUSERCOMMENTS" />
+        <cardtypefield element="FIXIASOFTCREATEDDATE" />
+        <cardtypefield element="FIXIASOFTMODIFIEDDATE" />
+      </fielddefinition>
+    </cardtype>
+    <cardtype element="CTTEMPLATEV">
+      <fielddefinition>
+        <cardtypefield element="FIXIASOFTID" />
+        <cardtypefield element="FIXIASOFTMODIFIEDBY">
+          <cardreferencefield>
+            <memberdefinition>
+              <member element="USER" />
+            </memberdefinition>
+          </cardreferencefield>
+        </cardtypefield>
+        <cardtypefield element="FIXIASOFTSYSTEMCOMMENTS" />
+        <cardtypefield element="FIXIASOFTUSERCOMMENTS" />
+        <cardtypefield element="FIXIASOFTCREATEDDATE" />
+        <cardtypefield element="FIXIASOFTMODIFIEDDATE" />
+      </fielddefinition>
+    </cardtype>
+    <cardtype element="CTLIBV">
+      <fielddefinition>
+        <cardtypefield element="FIXIASOFTID" />
+        <cardtypefield element="FIXIASOFTMODIFIEDBY">
+          <cardreferencefield>
+            <memberdefinition>
+              <member element="USER" />
+            </memberdefinition>
+          </cardreferencefield>
+        </cardtypefield>
+        <cardtypefield element="FIXIASOFTSYSTEMCOMMENTS" />
+        <cardtypefield element="FIXIASOFTUSERCOMMENTS" />
+        <cardtypefield element="FIXIASOFTCREATEDDATE" />
+        <cardtypefield element="FIXIASOFTMODIFIEDDATE" />
+      </fielddefinition>
+    </cardtype>
+  </cardtypes>
+</setup>

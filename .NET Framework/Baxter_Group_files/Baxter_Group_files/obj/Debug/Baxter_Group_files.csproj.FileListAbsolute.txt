@@ -1,0 +1,7 @@
+E:\Training\2025\.NET Framework\Baxter_Group_files\Baxter_Group_files\bin\Debug\Baxter_Group_files.exe.config
+E:\Training\2025\.NET Framework\Baxter_Group_files\Baxter_Group_files\bin\Debug\Baxter_Group_files.exe
+E:\Training\2025\.NET Framework\Baxter_Group_files\Baxter_Group_files\bin\Debug\Baxter_Group_files.pdb
+E:\Training\2025\.NET Framework\Baxter_Group_files\Baxter_Group_files\obj\Debug\Baxter_Group_files.csproj.AssemblyReference.cache
+E:\Training\2025\.NET Framework\Baxter_Group_files\Baxter_Group_files\obj\Debug\Baxter_Group_files.csproj.CoreCompileInputs.cache
+E:\Training\2025\.NET Framework\Baxter_Group_files\Baxter_Group_files\obj\Debug\Baxter_Group_files.exe
+E:\Training\2025\.NET Framework\Baxter_Group_files\Baxter_Group_files\obj\Debug\Baxter_Group_files.pdb

@@ -1,0 +1,67 @@
+import os
+import shutil
+from datetime import datetime
+
+def organize_images_by_date(source_folder):
+    """
+    Organizes images from a source folder into subfolders named by their creation date.
+
+    Args:
+        source_folder (str): The path to the folder containing the images.
+    """
+    if not os.path.isdir(source_folder):
+        print(f"Error: The folder '{source_folder}' does not exist.")
+        return
+
+    # List of common image file extensions
+    image_extensions = ('.jpg', '.jpeg', '.png', '.gif', '.bmp', '.tiff')
+
+    print(f"Scanning for images in '{source_folder}'...")
+
+    for filename in os.listdir(source_folder):
+        file_path = os.path.join(source_folder, filename)
+
+        # Skip directories and non-image files
+        if os.path.isdir(file_path) or not filename.lower().endswith(image_extensions):
+            continue
+
+        try:
+            # Get the file's creation timestamp (on some systems, this is the last modification time)
+            timestamp = os.path.getctime(file_path)
+            creation_date = datetime.fromtimestamp(timestamp)
+            
+            # Format the date as YYYY-MM-DD
+            date_folder_name = creation_date.strftime('%Y-%m-%d')
+            destination_folder = os.path.join(source_folder, date_folder_name)
+
+            # Create the destination folder if it doesn't exist
+            os.makedirs(destination_folder, exist_ok=True)
+
+            # Define the new path for the image
+            destination_path = os.path.join(destination_folder, filename)
+
+            # Move the file
+            shutil.move(file_path, destination_path)
+            print(f"Moved '{filename}' to '{destination_folder}'")
+
+        except Exception as e:
+            print(f"Could not process '{filename}': {e}")
+
+    print("\nImage organization complete! ✅")
+
+# --- Example Usage ---
+if __name__ == "__main__":
+    # Specify the folder you want to organize. 
+    # Replace 'path/to/your/image/folder' with the actual path.
+    # For this example, we'll assume a folder named 'my_images' exists in the same directory as the script.
+    
+    # Let's create a dummy folder and files for demonstration purposes
+    dummy_folder = 'my_images'
+    os.makedirs(dummy_folder, exist_ok=True)
+    open(os.path.join(dummy_folder, 'pic1.jpg'), 'a').close()
+    open(os.path.join(dummy_folder, 'pic2.png'), 'a').close()
+    
+    print("--- Running image organizer script ---")
+    organize_images_by_date(dummy_folder)
+    print("--------------------------------------")
+    print(f"Check the '{dummy_folder}' folder to see the results.")

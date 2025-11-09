@@ -1,0 +1,7 @@
+C:\Users\maliao\source\repos\FMG_re-order_RR_XML\FMG_re-order_RR_XML\obj\Debug\FMG_re-order_RR_XML.csprojAssemblyReference.cache
+C:\Users\maliao\source\repos\FMG_re-order_RR_XML\FMG_re-order_RR_XML\obj\Debug\FMG_re-order_RR_XML.csproj.CoreCompileInputs.cache
+C:\Users\maliao\source\repos\FMG_re-order_RR_XML\FMG_re-order_RR_XML\bin\Debug\FMG_re-order_RR_XML.exe.config
+C:\Users\maliao\source\repos\FMG_re-order_RR_XML\FMG_re-order_RR_XML\bin\Debug\FMG_re-order_RR_XML.exe
+C:\Users\maliao\source\repos\FMG_re-order_RR_XML\FMG_re-order_RR_XML\bin\Debug\FMG_re-order_RR_XML.pdb
+C:\Users\maliao\source\repos\FMG_re-order_RR_XML\FMG_re-order_RR_XML\obj\Debug\FMG_re-order_RR_XML.exe
+C:\Users\maliao\source\repos\FMG_re-order_RR_XML\FMG_re-order_RR_XML\obj\Debug\FMG_re-order_RR_XML.pdb

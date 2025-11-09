@@ -1,0 +1,10 @@
+  <InsertXMLInfo>
+    <param name="systemComment" docsName="FIXIASOFTSYSTEMCOMMENTS" file="customproperties" rootAttr="" level="version"/>
+    <param name="userComment" docsName="FIXIASOFTUSERCOMMENTS" file="customproperties" rootAttr="" level="version"/>
+	<param name="systemproperties/name" docsName="FIXIASOFTID" file="properties" rootAttr="" level="version"/>
+    <param name="systemproperties/creatorinfo/user" docsName="FAUTHOR" file="properties" rootAttr="" level="lng"/>
+    <param name="systemproperties/creatorinfo/date" docsName="FIXIASOFTCREATEDDATE" file="properties" rootAttr="" level="version"/>
+    <param name="systemproperties/version" docsName="VERSION" file="properties" rootAttr="" level="version"/>
+    <param name="systemproperties/modifierinfo/user" docsName="FIXIASOFTMODIFIEDBY" file="properties" rootAttr="" level="version"/>
+    <param name="systemproperties/modifierinfo/date" docsName="FIXIASOFTMODIFIEDDATE" file="properties" rootAttr="" level="version"/>
+  </InsertXMLInfo>

@@ -1,0 +1,11 @@
+W:\Projects\Intel-Ixisoft-POC-ContentImport\Intel-ContentImportScript\bin\Debug\IntelContentImportScript.exe.config
+W:\Projects\Intel-Ixisoft-POC-ContentImport\Intel-ContentImportScript\bin\Debug\IntelContentImportScript.exe
+W:\Projects\Intel-Ixisoft-POC-ContentImport\Intel-ContentImportScript\bin\Debug\IntelContentImportScript.pdb
+W:\Projects\Intel-Ixisoft-POC-ContentImport\Intel-ContentImportScript\bin\Debug\log4net.dll
+W:\Projects\Intel-Ixisoft-POC-ContentImport\Intel-ContentImportScript\bin\Debug\System.Data.SQLite.dll
+W:\Projects\Intel-Ixisoft-POC-ContentImport\Intel-ContentImportScript\bin\Debug\log4net.xml
+W:\Projects\Intel-Ixisoft-POC-ContentImport\Intel-ContentImportScript\bin\Debug\System.Data.SQLite.xml
+W:\Projects\Intel-Ixisoft-POC-ContentImport\Intel-ContentImportScript\obj\Debug\IntelContentImportScript.csproj.CoreCompileInputs.cache
+W:\Projects\Intel-Ixisoft-POC-ContentImport\Intel-ContentImportScript\obj\Debug\IntelContentImportScript.csproj.CopyComplete
+W:\Projects\Intel-Ixisoft-POC-ContentImport\Intel-ContentImportScript\obj\Debug\IntelContentImportScript.exe
+W:\Projects\Intel-Ixisoft-POC-ContentImport\Intel-ContentImportScript\obj\Debug\IntelContentImportScript.pdb

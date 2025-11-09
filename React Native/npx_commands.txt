@@ -1,0 +1,11 @@
+- To create a new app:
+
+npx create-expo-app@latest
+
+or
+
+npx create-expo-app [My App Name], example: npx create-expo-app MyFirstApp
+
+- To use React shortcut by using the extension ES7+ React/Redux/React-Native snippets
+
+rnfe

@@ -1,0 +1,67 @@
+﻿ <!--ADD in dialogstrings.xml-->
+ <resource resourceid="IntelTabPage.Label">Intel</resource>
+ <resource resourceid="IntelGeneralGroup.Label">IxiaSoft</resource>
+ <resource resourceid="FIXIASOFTID.Label">&amp;IxiaSoft ID</resource>
+ <resource resourceid="FIXIASOFTID.Description">IxiaSoft ID of the object.</resource>
+ <resource resourceid="FIXIASOFTSYSTEMCOMMENTS.Label">&amp;System Comments</resource>
+ <resource resourceid="FIXIASOFTSYSTEMCOMMENTS.Description">Captures system comments for every version of the imported object</resource>
+ <resource resourceid="FIXIASOFTUSERCOMMENTS.Label">&amp;User Comments</resource>
+ <resource resourceid="FIXIASOFTUSERCOMMENTS.Description">Captures user comments for every version of the imported object</resource>
+ <resource resourceid="FIXIASOFTCREATEDDATE.Label">Metadata Created on</resource>
+ <resource resourceid="FIXIASOFTCREATEDDATE.Description">The date when the metadata of the current object was created</resource>
+ <resource resourceid="FIXIASOFTMODIFIEDDATE.Label">Metadata modified on.</resource>
+ <resource resourceid="FIXIASOFTMODIFIEDDATE.Description">The date when the metadata of the current object was last modified</resource>
+ <resource resourceid="FIXIASOFTMODIFIEDBY.Label">&amp;Modified by</resource>
+ <resource resourceid="FIXIASOFTMODIFIEDBY.Description">The name of the user who modified</resource>
+
+ <!--ADD BELOW SECTION IN METADATACONFIG -->
+ <ishfrmtab id="IntelIxiasoftTabPage">
+        <label resourceref="IntelTabPage.Label">Intel</label>
+        <ishfrmgroup>
+          <label resourceref="IntelGeneralGroup.Label">IxiaSoft</label>
+          <ishfrmfield ref="IxiaSoftIDField" />
+		  <ishfrmfield ref="IxiaSoftCreatedDateField" />
+          <ishfrmfield ref="IxiaSoftModifiedByField" />
+          <ishfrmfield ref="IxiaSoftModifiedDateField" />          
+          <ishfrmfield ref="IxiaSoftSystemCommentsField" />
+          <ishfrmfield ref="IxiaSoftUserCommentsField" />
+        </ishfrmgroup>
+  </ishfrmtab>
+
+   <!-- Start Intel IxiaSoft Fields -->
+   <ishfrmfield id="IxiaSoftIDField" name="IxiaSoftIDField" ishfieldref="FIXIASOFTID" level="version">
+      <label resourceref="FIXIASOFTID.Label">&amp;IxiaSoft ID</label>
+      <description resourceref="FIXIASOFTID.Description">IxiaSoft ID of the object.</description>
+      <readonly />
+   </ishfrmfield>
+     <ishfrmfield id="IxiaSoftSystemCommentsField" name="IxiaSoftSystemCommentsField" ishfieldref="FIXIASOFTSYSTEMCOMMENTS" level="version">
+        <label resourceref="FIXIASOFTSYSTEMCOMMENTS.Label">&amp;System Comments</label>
+        <description resourceref="FIXIASOFTSYSTEMCOMMENTS.Description">Captures system comments for every version of the imported object</description>
+        <typemultilinetext lines="5" />
+        <readonly />
+        <value overwrite="yes" ishcondition="ChangeMode in ('NewVersion', 'Create') and not (CreateReason = 'NewLanguage')" />
+      </ishfrmfield>
+	     <ishfrmfield id="IxiaSoftUserCommentsField" name="IxiaSoftUserCommentsField" ishfieldref="FIXIASOFTUSERCOMMENTS" level="version">
+        <label resourceref="FIXIASOFTUSERCOMMENTS.Label">&amp;User Comments</label>
+        <description resourceref="FIXIASOFTUSERCOMMENTS.Description">Captures user comments for every version of the imported object</description>
+        <typemultilinetext lines="5" />
+        <readonly />
+        <value overwrite="yes" ishcondition="ChangeMode in ('NewVersion', 'Create') and not (CreateReason = 'NewLanguage')" />
+      </ishfrmfield>
+	  <ishfrmfield id="IxiaSoftCreatedDateField" name="IxiaSoftCreatedDateField" ishfieldref="FIXIASOFTCREATEDDATE" level="version" ishfielddatatype="typedatetime">
+        <label resourceref="FIXIASOFTCREATEDDATE.Label">Metadata Created on</label>
+        <description resourceref="FIXIASOFTCREATEDDATE.Description">The date when the metadata of the current object was created</description>
+        <typelabel />
+      </ishfrmfield>
+	  <ishfrmfield id="IxiaSoftModifiedDateField" name="IxiaSoftModifiedDateField" ishfieldref="FIXIASOFTMODIFIEDDATE" level="version" ishfielddatatype="typedatetime">
+        <label resourceref="FIXIASOFTMODIFIEDDATE.Label">Metadata modified on</label>
+        <description resourceref="FIXIASOFTMODIFIEDDATE.Description">The date when the metadata of the current object was last modified</description>
+        <typelabel />
+      </ishfrmfield>
+	  <ishfrmfield id="IxiaSoftModifiedByField" name="IxiaSoftModifiedByField" ishfieldref="FIXIASOFTMODIFIEDBY" level="version">
+        <label resourceref="FIXIASOFTMODIFIEDBY.Label">&amp;Modified by</label>
+        <description resourceref="FIXIASOFTMODIFIEDBY.Description">The name of the user who modified</description>
+        <typetext />
+        <readonly />
+        <value overwrite="yes" ishcondition="ChangeMode in ('NewVersion', 'Create')" />
+      </ishfrmfield>

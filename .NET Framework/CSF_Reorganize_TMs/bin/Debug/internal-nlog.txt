@@ -1,0 +1,58 @@
+2025-02-05 16:52:46.4944 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-05 16:52:46.5024 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-05 16:52:46.5204 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-05 16:52:46.5524 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\CSF_Reorganize_TMs\bin\Debug\NLog.config
+2025-02-05 16:52:46.5804 Info Configuration initialized.
+2025-02-05 16:53:33.9300 Info AppDomain Shutting down. LogFactory closing...
+2025-02-05 16:53:33.9770 Info LogFactory has been closed.
+2025-02-05 16:59:03.7941 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-05 16:59:03.7991 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-05 16:59:03.8271 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-05 16:59:03.8691 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\CSF_Reorganize_TMs\bin\Debug\NLog.config
+2025-02-05 16:59:03.9021 Info Configuration initialized.
+2025-02-05 17:01:07.0774 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-05 17:01:07.0824 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-05 17:01:07.0944 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-05 17:01:07.1174 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\CSF_Reorganize_TMs\bin\Debug\NLog.config
+2025-02-05 17:01:07.1384 Info Configuration initialized.
+2025-02-05 17:01:30.5947 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-05 17:01:30.5947 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-05 17:01:30.6117 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-05 17:01:30.6357 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\CSF_Reorganize_TMs\bin\Debug\NLog.config
+2025-02-05 17:01:30.6587 Info Configuration initialized.
+2025-02-05 17:02:19.1428 Info AppDomain Shutting down. LogFactory closing...
+2025-02-05 17:02:19.1848 Info LogFactory has been closed.
+2025-02-05 17:03:36.0668 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-05 17:03:36.0668 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-05 17:03:36.0818 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-05 17:03:36.1048 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\CSF_Reorganize_TMs\bin\Debug\NLog.config
+2025-02-05 17:03:36.1308 Info Configuration initialized.
+2025-02-05 17:04:03.5400 Info AppDomain Shutting down. LogFactory closing...
+2025-02-05 17:04:03.5800 Info LogFactory has been closed.
+2025-02-05 17:09:52.1425 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-05 17:09:52.1425 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-05 17:09:52.1605 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-05 17:09:52.1855 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\CSF_Reorganize_TMs\bin\Debug\NLog.config
+2025-02-05 17:09:52.2115 Info Configuration initialized.
+2025-02-05 17:15:27.1197 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-05 17:15:27.1247 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-05 17:15:27.1247 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-05 17:15:27.1667 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\CSF_Reorganize_TMs\bin\Debug\NLog.config
+2025-02-05 17:15:27.2047 Info Configuration initialized.
+2025-02-05 17:16:48.4669 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-05 17:16:48.4699 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-05 17:16:48.4699 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-05 17:16:48.5049 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\CSF_Reorganize_TMs\bin\Debug\NLog.config
+2025-02-05 17:16:48.5279 Info Configuration initialized.
+2025-02-05 17:17:15.0663 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-05 17:17:15.0663 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-05 17:17:15.0853 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-05 17:17:15.1103 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\CSF_Reorganize_TMs\bin\Debug\NLog.config
+2025-02-05 17:17:15.1403 Info Configuration initialized.
+2025-02-05 17:17:44.4178 Info AppDomain Shutting down. LogFactory closing...
+2025-02-05 17:17:44.4628 Info LogFactory has been closed.
+2025-02-05 17:28:58.9070 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-05 17:28:58.9070 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-05 17:28:58.9260 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-05 17:28:58.9540 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\CSF_Reorganize_TMs\bin\Debug\NLog.config
+2025-02-05 17:28:58.9840 Info Configuration initialized.

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Training\\2025\\.NET Framework\\Baxter_Group_files\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA026E8-0340-4D42-AED3-EF3C05584F2C}|Baxter_Group_files\\Baxter_Group_files.csproj|e:\\training\\2025\\.net framework\\baxter_group_files\\baxter_group_files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA026E8-0340-4D42-AED3-EF3C05584F2C}|Baxter_Group_files\\Baxter_Group_files.csproj|solutionrelative:baxter_group_files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA026E8-0340-4D42-AED3-EF3C05584F2C}|Baxter_Group_files\\Baxter_Group_files.csproj|e:\\training\\2025\\.net framework\\baxter_group_files\\baxter_group_files\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DEA026E8-0340-4D42-AED3-EF3C05584F2C}|Baxter_Group_files\\Baxter_Group_files.csproj|solutionrelative:baxter_group_files\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA026E8-0340-4D42-AED3-EF3C05584F2C}|Baxter_Group_files\\Baxter_Group_files.csproj|e:\\training\\2025\\.net framework\\baxter_group_files\\baxter_group_files\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA026E8-0340-4D42-AED3-EF3C05584F2C}|Baxter_Group_files\\Baxter_Group_files.csproj|solutionrelative:baxter_group_files\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Baxter_Group_files||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA026E8-0340-4D42-AED3-EF3C05584F2C}|Baxter_Group_files\\Baxter_Group_files.csproj|e:\\training\\2025\\.net framework\\baxter_group_files\\baxter_group_files\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Framework\\Baxter_Group_files\\Baxter_Group_files\\Program.cs",
+              "RelativeDocumentMoniker": "Baxter_Group_files\\Program.cs",
+              "ToolTip": "E:\\Training\\2025\\.NET Framework\\Baxter_Group_files\\Baxter_Group_files\\Program.cs",
+              "RelativeToolTip": "Baxter_Group_files\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:58:15.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Framework\\Baxter_Group_files\\Baxter_Group_files\\App.config",
+              "RelativeDocumentMoniker": "Baxter_Group_files\\App.config",
+              "ToolTip": "E:\\Training\\2025\\.NET Framework\\Baxter_Group_files\\Baxter_Group_files\\App.config",
+              "RelativeToolTip": "Baxter_Group_files\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-21T15:57:27.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Baxter_Group_files",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Framework\\Baxter_Group_files\\Baxter_Group_files\\Baxter_Group_files.csproj",
+              "RelativeDocumentMoniker": "Baxter_Group_files\\Baxter_Group_files.csproj",
+              "ToolTip": "E:\\Training\\2025\\.NET Framework\\Baxter_Group_files\\Baxter_Group_files\\Baxter_Group_files.csproj",
+              "RelativeToolTip": "Baxter_Group_files\\Baxter_Group_files.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-21T15:57:01.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Framework\\Baxter_Group_files\\Baxter_Group_files\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Baxter_Group_files\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "E:\\Training\\2025\\.NET Framework\\Baxter_Group_files\\Baxter_Group_files\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Baxter_Group_files\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T15:56:16.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+PM:> add-migration initialMigration
+
+
+PM:> Scaffold-DbContext "Server=(localdb)\\mssqllocaldb;Database=YourDatabaseName;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+PM:> Scaffold-DbContext "Data Source=MONPSEMALIAO01; Initial Catalog=SchoolProjectDb; Integrated Security=true; TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -force -OutputDir Models
+
+To force replacement if a model class already exists
+PM:> Scaffold-DbContext "Server=(localdb)\\mssqllocaldb;Database=YourDatabaseName;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -force -OutputDir Models
+
+PM:> install-package Microsoft.EntityframeworkCore 

@@ -1,0 +1,7 @@
+C:\Users\maliao\source\repos\FMG_add_XSL_Stylesheet\FMG_add_XSL_Stylesheet\bin\Debug\FMG_add_XSL_Stylesheet.exe.config
+C:\Users\maliao\source\repos\FMG_add_XSL_Stylesheet\FMG_add_XSL_Stylesheet\bin\Debug\FMG_add_XSL_Stylesheet.exe
+C:\Users\maliao\source\repos\FMG_add_XSL_Stylesheet\FMG_add_XSL_Stylesheet\bin\Debug\FMG_add_XSL_Stylesheet.pdb
+C:\Users\maliao\source\repos\FMG_add_XSL_Stylesheet\FMG_add_XSL_Stylesheet\obj\Debug\FMG_add_XSL_Stylesheet.csprojAssemblyReference.cache
+C:\Users\maliao\source\repos\FMG_add_XSL_Stylesheet\FMG_add_XSL_Stylesheet\obj\Debug\FMG_add_XSL_Stylesheet.csproj.CoreCompileInputs.cache
+C:\Users\maliao\source\repos\FMG_add_XSL_Stylesheet\FMG_add_XSL_Stylesheet\obj\Debug\FMG_add_XSL_Stylesheet.exe
+C:\Users\maliao\source\repos\FMG_add_XSL_Stylesheet\FMG_add_XSL_Stylesheet\obj\Debug\FMG_add_XSL_Stylesheet.pdb

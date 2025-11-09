@@ -1,0 +1,14 @@
+C:\Users\maliao\source\repos\Baxter_split_multilingual_TM\Baxter_split_multilingual_TM\bin\Debug\Baxter_split_multilingual_TM.exe.config
+C:\Users\maliao\source\repos\Baxter_split_multilingual_TM\Baxter_split_multilingual_TM\bin\Debug\Baxter_split_multilingual_TM.exe
+C:\Users\maliao\source\repos\Baxter_split_multilingual_TM\Baxter_split_multilingual_TM\bin\Debug\Baxter_split_multilingual_TM.pdb
+C:\Users\maliao\source\repos\Baxter_split_multilingual_TM\Baxter_split_multilingual_TM\obj\Debug\Baxter_split_multilingual_TM.csprojAssemblyReference.cache
+C:\Users\maliao\source\repos\Baxter_split_multilingual_TM\Baxter_split_multilingual_TM\obj\Debug\Baxter_split_multilingual_TM.csproj.CoreCompileInputs.cache
+C:\Users\maliao\source\repos\Baxter_split_multilingual_TM\Baxter_split_multilingual_TM\obj\Debug\Baxter_split_multilingual_TM.exe
+C:\Users\maliao\source\repos\Baxter_split_multilingual_TM\Baxter_split_multilingual_TM\obj\Debug\Baxter_split_multilingual_TM.pdb
+E:\Training\2025\.NET Framework\Baxter_split_multilingual_TM\Baxter_split_multilingual_TM\bin\Debug\Baxter_split_multilingual_TM.exe.config
+E:\Training\2025\.NET Framework\Baxter_split_multilingual_TM\Baxter_split_multilingual_TM\bin\Debug\Baxter_split_multilingual_TM.exe
+E:\Training\2025\.NET Framework\Baxter_split_multilingual_TM\Baxter_split_multilingual_TM\bin\Debug\Baxter_split_multilingual_TM.pdb
+E:\Training\2025\.NET Framework\Baxter_split_multilingual_TM\Baxter_split_multilingual_TM\obj\Debug\Baxter_split_multilingual_TM.csproj.AssemblyReference.cache
+E:\Training\2025\.NET Framework\Baxter_split_multilingual_TM\Baxter_split_multilingual_TM\obj\Debug\Baxter_split_multilingual_TM.csproj.CoreCompileInputs.cache
+E:\Training\2025\.NET Framework\Baxter_split_multilingual_TM\Baxter_split_multilingual_TM\obj\Debug\Baxter_split_multilingual_TM.exe
+E:\Training\2025\.NET Framework\Baxter_split_multilingual_TM\Baxter_split_multilingual_TM\obj\Debug\Baxter_split_multilingual_TM.pdb
