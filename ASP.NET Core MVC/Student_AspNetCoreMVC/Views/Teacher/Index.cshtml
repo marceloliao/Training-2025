@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Teacher Page";
+}
+@model IEnumerable<Teacher>
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Teacher ID</th>
+            <th>First Name</th>
+            <th>Last Name</th>            
+        </tr>
+    </thead>
+    <tbody>
+        <a asp-controller="Teacher" asp-action="DisplayRegistrationForm">Add a new teacher</a>
+        @foreach (var teacher in Model)
+        @* @for (int i = 1; i <= Model.Count(); i++) *@
+        {
+            <tr>
+                <td>@teacher.TeacherId</td>
+                <td>@teacher.FirstName</td>
+                <td>@teacher.LastName</td>                
+
+                @* Use link text instead of buttons, we can also get rid of JavasCript functions*@
+                @*<td><button onclick="editRecord(@reg.Id)">Edit</button></td>*@
+                @*<td><button onclick="deleteRecord(@reg.Id)">Delete</button></td>*@
+
+                <td><a asp-controller="Teacher" asp-action="Edit" asp-route-id="@teacher.TeacherId">Edit</a></td>
+                <td><a asp-controller="Teacher" asp-action="Delete" asp-route-id="@teacher.TeacherId">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

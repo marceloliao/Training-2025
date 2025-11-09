@@ -1,0 +1,43 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Teacher
+@{
+    ViewData["Title"] = "Form";
+}
+
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h4>Registration Form</h4>
+    </div>
+    <div>
+        <div><a asp-controller="Teacher" asp-action="Index">&lt; Back</a></div>
+    </div>
+    <div class="panel-body">
+        <form asp-controller="Teacher" asp-action="Register" method="POST">
+            <div class="form-group" hidden>
+                <label asp-for="TeacherId" class="control-label"></label>
+                <div>
+                    <input asp-for="TeacherId" class="form-control"/>                    
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Teacher's First Name</label>
+                <div>
+                    <input asp-for="FirstName" class="form-control" />
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group" style="margin-top:10px">
+                <label class="control-label">Teacher's Last Name</label>
+                <div>
+                    <input asp-for="LastName" class="form-control" />
+                    <span asp-validation-for="LastName" class="text-danger"></span>
+                </div>
+            </div>           
+            <div class="form-group" style="margin-top:10px">
+                <button asp- class="btn btn-primary">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>

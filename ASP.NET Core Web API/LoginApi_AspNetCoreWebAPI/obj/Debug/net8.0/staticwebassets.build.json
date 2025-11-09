@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TmXdzZP3k8BETRgF6+EjMn+jvFa1ZXTFOaTebiPjAGw=",
+  "Source": "LoginApi_AspNetCoreWebAPI",
+  "BasePath": "_content/LoginApi_AspNetCoreWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

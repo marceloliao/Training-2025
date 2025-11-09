@@ -1,0 +1,113 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Edit a course";
+}
+
+@model Student_AspNetCoreMVC.Models.Course;
+
+<style>
+    .hidden {
+        display: none;
+    }
+</style>
+
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h4>New Course Form</h4>
+    </div>
+    <div>
+        <div><a asp-controller="Course" asp-action="Index">&lt; Back</a></div>
+    </div>
+    <div class="panel-body">
+        <form asp-controller="Course" asp-action="EditCourse" method="POST">
+            <div class="form-group" hidden>
+                <label asp-for="CourseId" class="control-label"></label>
+                <div>
+                    <input asp-for="CourseId" class="form-control" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Course Name</label>
+                <div>
+                    <input asp-for="CourseName" class="form-control" />
+                    <span asp-validation-for="CourseName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group" style="margin-top:10px">
+                <label class="control-label">Teacher's First Name</label>
+                <div>
+                    <input asp-for="TeacherFirstName" id="selectedTeacherFirstName" class="form-control" readonly />
+                    <span asp-validation-for="TeacherFirstName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group" style="margin-top:10px">
+                <label class="control-label">Teacher's Last Name</label>
+                <div>
+                    <input asp-for="TeacherLastName" id="selectedTeacherLastName" class="form-control" readonly />
+                    <span asp-validation-for="TeacherLastName" class="text-danger"></span>
+                </div>
+            </div>
+            @*  <div class="form-group" style="margin-top:10px">
+                <label class="control-label">Selected Teacher</label>
+                <div>
+                    <input type="text" id="selectedTeacher" />
+                </div>
+            </div> *@
+            <div class="form-group" style="margin-top:10px">
+                <label class="control-label">Select a new teacher</label>
+                @Html.DropDownList("Items", (IEnumerable<SelectListItem>)ViewBag.Items, "Select a new teacher", new { id = "fullnames" })
+                @Html.DropDownList("FirstNameItems", (IEnumerable<SelectListItem>)ViewBag.FirstNameItems, "Select a teacher", new { id = "firstnames", @class = "hidden" })
+                @Html.DropDownList("LastNameItems", (IEnumerable<SelectListItem>)ViewBag.LastNameItems, "Select a teacher", new { id = "lastnames", @class = "hidden" })
+
+                @* <div> 
+                    <select> 
+                        @foreach (var item in Model.Items) 
+                        { 
+                            <option value="@item.Value">@item.Text</option> 
+                        } 
+                    </select> 
+                </div>  *@
+            </div>
+            <div class="form-group" style="margin-top:10px">
+                <button asp- class="btn btn-primary">Submit</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    document.addEventListener("DOMContentLoaded", function() {
+        var dropdown1 = document.getElementById("fullnames");
+        var dropdown2 = document.getElementById("firstnames");
+        var dropdown3 = document.getElementById("lastnames");
+        var firstname = document.getElementById('selectedTeacherFirstName');
+        var lastname = document.getElementById('selectedTeacherLastName');
+
+        dropdown1.addEventListener("change", function() {
+            dropdown2.selectedIndex = dropdown1.selectedIndex;
+            dropdown3.selectedIndex = dropdown1.selectedIndex;
+
+            // Load values in textboxes except the first item
+            var index = dropdown1.selectedIndex;
+            if (index !=0) {
+            firstname.value = dropdown2.options[dropdown2.selectedIndex].text;
+            lastname.value = dropdown3.options[dropdown3.selectedIndex].text;
+            }
+        });
+    });
+
+    // document.getElementById('fullname').addEventListener('change', function () {
+
+    //     var selectedText = this.options[this.selectedIndex].text;
+    //     var selectedId = this.options[this.selectedIndex].value;
+
+    //     document.getElementById('firstname').selectedIndex = this.selectedIndex;
+    //     document.getElementById('lastname').selectedIndex = this.selectedIndex;
+    //     document.getElementById('selectedTeacher').value = selectedText;
+    //     document.getElementById('selectedTeacherFirstName').value = selectedId;
+    //     document.getElementById('selectedTeacherLastName').value = selectedText;
+    // });
+</script>

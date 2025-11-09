@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VxwAR4J3fNWChKJcJgF2IstKQqgZJEkLMJ2fjgU4n/Y=",
+  "Source": "CustomerApi_AspNetCoreWebAPI",
+  "BasePath": "_content/CustomerApi_AspNetCoreWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

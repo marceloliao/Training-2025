@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wc+4wWOR/Neppc5ebLHMQv4PQgSIW499Y1CChm0QWsA=",
+  "Source": "StudentApi_AspNetCoreWebAPI",
+  "BasePath": "_content/StudentApi_AspNetCoreWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

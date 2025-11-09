@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_AspNetCoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E877D6B-245C-4BC8-BD07-C4A44EAB1EFF}|Default_AspNetCoreMVC.csproj|e:\\training\\2025\\asp.net core mvc\\default_aspnetcoremvc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E877D6B-245C-4BC8-BD07-C4A44EAB1EFF}|Default_AspNetCoreMVC.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E877D6B-245C-4BC8-BD07-C4A44EAB1EFF}|Default_AspNetCoreMVC.csproj|e:\\training\\2025\\asp.net core mvc\\default_aspnetcoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E877D6B-245C-4BC8-BD07-C4A44EAB1EFF}|Default_AspNetCoreMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E877D6B-245C-4BC8-BD07-C4A44EAB1EFF}|Default_AspNetCoreMVC.csproj|e:\\training\\2025\\asp.net core mvc\\default_aspnetcoremvc\\default_aspnetcoremvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{6E877D6B-245C-4BC8-BD07-C4A44EAB1EFF}|Default_AspNetCoreMVC.csproj|solutionrelative:default_aspnetcoremvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E877D6B-245C-4BC8-BD07-C4A44EAB1EFF}|Default_AspNetCoreMVC.csproj|e:\\training\\2025\\asp.net core mvc\\default_aspnetcoremvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E877D6B-245C-4BC8-BD07-C4A44EAB1EFF}|Default_AspNetCoreMVC.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 205,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default_AspNetCoreMVC",
+              "DocumentMoniker": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_AspNetCoreMVC\\Default_AspNetCoreMVC.csproj",
+              "RelativeDocumentMoniker": "Default_AspNetCoreMVC.csproj",
+              "ToolTip": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_AspNetCoreMVC\\Default_AspNetCoreMVC.csproj",
+              "RelativeToolTip": "Default_AspNetCoreMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T02:20:28.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_AspNetCoreMVC\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_AspNetCoreMVC\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T22:56:02.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_AspNetCoreMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_AspNetCoreMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T20:09:34.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_AspNetCoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_AspNetCoreMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:07:18.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

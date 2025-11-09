@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "oVZEuHrfQtQJjy+2iJ/yxxwOxCzNdh/FUHMMx36bsYA=",
+  "Source": "Movies_AspNetCoreWebAPI",
+  "BasePath": "_content/Movies_AspNetCoreWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

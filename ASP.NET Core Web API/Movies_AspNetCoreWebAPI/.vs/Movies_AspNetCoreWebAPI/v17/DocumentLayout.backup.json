@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Training\\2025\\ASP.NET Core Web API\\Movies_AspNetCoreWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75A56DA2-49C6-4566-A87A-3E23FEB38155}|Movies_AspNetCoreWebAPI.csproj|e:\\training\\2025\\asp.net core web api\\movies_aspnetcorewebapi\\entities\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A56DA2-49C6-4566-A87A-3E23FEB38155}|Movies_AspNetCoreWebAPI.csproj|solutionrelative:entities\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A56DA2-49C6-4566-A87A-3E23FEB38155}|Movies_AspNetCoreWebAPI.csproj|e:\\training\\2025\\asp.net core web api\\movies_aspnetcorewebapi\\movies_aspnetcorewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75A56DA2-49C6-4566-A87A-3E23FEB38155}|Movies_AspNetCoreWebAPI.csproj|solutionrelative:movies_aspnetcorewebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A56DA2-49C6-4566-A87A-3E23FEB38155}|Movies_AspNetCoreWebAPI.csproj|e:\\training\\2025\\asp.net core web api\\movies_aspnetcorewebapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A56DA2-49C6-4566-A87A-3E23FEB38155}|Movies_AspNetCoreWebAPI.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A56DA2-49C6-4566-A87A-3E23FEB38155}|Movies_AspNetCoreWebAPI.csproj|e:\\training\\2025\\asp.net core web api\\movies_aspnetcorewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A56DA2-49C6-4566-A87A-3E23FEB38155}|Movies_AspNetCoreWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 301,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "E:\\Training\\2025\\ASP.NET Core Web API\\Movies_AspNetCoreWebAPI\\Entities\\Movies.cs",
+              "RelativeDocumentMoniker": "Entities\\Movies.cs",
+              "ToolTip": "E:\\Training\\2025\\ASP.NET Core Web API\\Movies_AspNetCoreWebAPI\\Entities\\Movies.cs",
+              "RelativeToolTip": "Entities\\Movies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T22:40:38.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movies_AspNetCoreWebAPI.csproj",
+              "DocumentMoniker": "E:\\Training\\2025\\ASP.NET Core Web API\\Movies_AspNetCoreWebAPI\\Movies_AspNetCoreWebAPI.csproj",
+              "RelativeDocumentMoniker": "Movies_AspNetCoreWebAPI.csproj",
+              "ToolTip": "E:\\Training\\2025\\ASP.NET Core Web API\\Movies_AspNetCoreWebAPI\\Movies_AspNetCoreWebAPI.csproj",
+              "RelativeToolTip": "Movies_AspNetCoreWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-04T22:40:02.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\Training\\2025\\ASP.NET Core Web API\\Movies_AspNetCoreWebAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "E:\\Training\\2025\\ASP.NET Core Web API\\Movies_AspNetCoreWebAPI\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T22:30:59.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Training\\2025\\ASP.NET Core Web API\\Movies_AspNetCoreWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Training\\2025\\ASP.NET Core Web API\\Movies_AspNetCoreWebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T22:28:47.102Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

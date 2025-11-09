@@ -1,0 +1,154 @@
+[
+  {
+    "ContainingType": "StudentApi_AspNetCoreWebAPI.Controllers.CourseController",
+    "Method": "Add",
+    "RelativePath": "AddCourse",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "course",
+        "Type": "StudentApi_AspNetCoreWebAPI.Models.Course",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentApi_AspNetCoreWebAPI.Controllers.StudentController",
+    "Method": "AddStudent",
+    "RelativePath": "AddStudent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "student",
+        "Type": "StudentApi_AspNetCoreWebAPI.Models.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentApi_AspNetCoreWebAPI.Controllers.TeacherController",
+    "Method": "AddTeacher",
+    "RelativePath": "AddTeacher",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "teacher",
+        "Type": "StudentApi_AspNetCoreWebAPI.Models.Teacher",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentApi_AspNetCoreWebAPI.Controllers.TeacherController",
+    "Method": "DeleteTeacher",
+    "RelativePath": "DeleteTeacher/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentApi_AspNetCoreWebAPI.Controllers.CourseController",
+    "Method": "GetAllCourses",
+    "RelativePath": "GetAllCourses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentApi_AspNetCoreWebAPI.Controllers.StudentController",
+    "Method": "GetAllStudents",
+    "RelativePath": "GetAllStudents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentApi_AspNetCoreWebAPI.Controllers.TeacherController",
+    "Method": "GetAllTeachers",
+    "RelativePath": "GetAllTeachers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentApi_AspNetCoreWebAPI.Controllers.CourseController",
+    "Method": "Get",
+    "RelativePath": "GetCourse/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentApi_AspNetCoreWebAPI.Controllers.StudentController",
+    "Method": "UpdateStudent",
+    "RelativePath": "UpdateStudent/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "student",
+        "Type": "StudentApi_AspNetCoreWebAPI.Models.Student",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentApi_AspNetCoreWebAPI.Controllers.TeacherController",
+    "Method": "UpdateTeacher",
+    "RelativePath": "UpdateTeacher/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedTeacher",
+        "Type": "StudentApi_AspNetCoreWebAPI.Models.Teacher",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

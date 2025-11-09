@@ -1,0 +1,524 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\controllers\\api\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:controllers\\api\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\components\\registrationlistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:components\\registrationlistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\views\\shared\\components\\registrationlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:views\\shared\\components\\registrationlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\registrationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:registrationconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\data\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:data\\democontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\views\\demo\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:views\\demo\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\data\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:data\\idataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\data\\fakedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:data\\fakedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\mymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:mymiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\wwwroot\\student.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:wwwroot\\student.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\controllers\\api\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:controllers\\api\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\first_aspnetcoremvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:first_aspnetcoremvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|d:\\training\\2025\\asp.net core mvc\\first_aspnetcoremvc\\first_aspnetcoremvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4FA5C7C-80DD-40B7-8DD4-CA38F27B106A}|First_AspNetCoreMVC.csproj|solutionrelative:first_aspnetcoremvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 227,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationConfig.cs",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\RegistrationConfig.cs",
+              "RelativeDocumentMoniker": "RegistrationConfig.cs",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\RegistrationConfig.cs",
+              "RelativeToolTip": "RegistrationConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T16:12:44.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-05T03:51:34.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "student.html",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\wwwroot\\student.html",
+              "RelativeDocumentMoniker": "wwwroot\\student.html",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\wwwroot\\student.html",
+              "RelativeToolTip": "wwwroot\\student.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-09T21:31:31.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Shared\\Components\\RegistrationList\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\RegistrationList\\Default.cshtml",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Shared\\Components\\RegistrationList\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\RegistrationList\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T01:00:34.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationListViewComponent.cs",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Components\\RegistrationListViewComponent.cs",
+              "RelativeDocumentMoniker": "Components\\RegistrationListViewComponent.cs",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Components\\RegistrationListViewComponent.cs",
+              "RelativeToolTip": "Components\\RegistrationListViewComponent.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:46:27.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDataService.cs",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Data\\IDataService.cs",
+              "RelativeDocumentMoniker": "Data\\IDataService.cs",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Data\\IDataService.cs",
+              "RelativeToolTip": "Data\\IDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:50:27.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DemoContext.cs",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Data\\DemoContext.cs",
+              "RelativeDocumentMoniker": "Data\\DemoContext.cs",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Data\\DemoContext.cs",
+              "RelativeToolTip": "Data\\DemoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T18:54:33.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FakeData.cs",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Data\\FakeData.cs",
+              "RelativeDocumentMoniker": "Data\\FakeData.cs",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Data\\FakeData.cs",
+              "RelativeToolTip": "Data\\FakeData.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:27:41.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Controllers\\Api\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Api\\RegistrationController.cs",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Controllers\\Api\\RegistrationController.cs",
+              "RelativeToolTip": "Controllers\\Api\\RegistrationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:59:05.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Controllers\\Api\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Api\\ValuesController.cs",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Controllers\\Api\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\Api\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:58:30.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Demo\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Demo\\Register.cshtml",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Demo\\Register.cshtml",
+              "RelativeToolTip": "Views\\Demo\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T21:39:45.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegistrationModel.cs",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "Models\\RegistrationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:34:01.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Demo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Demo\\Index.cshtml",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Demo\\Index.cshtml",
+              "RelativeToolTip": "Views\\Demo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-30T21:23:55.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DemoController.cs",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T21:22:39.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T03:49:41.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T03:49:39.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T03:49:36.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T03:49:33.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T03:45:09.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T03:45:04.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-29T03:44:59.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T19:16:49.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "First_AspNetCoreMVC.csproj",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\First_AspNetCoreMVC.csproj",
+              "RelativeDocumentMoniker": "First_AspNetCoreMVC.csproj",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\First_AspNetCoreMVC.csproj",
+              "RelativeToolTip": "First_AspNetCoreMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-26T16:40:24.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:14:23.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:01:52.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MyMiddleware.cs",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\MyMiddleware.cs",
+              "RelativeDocumentMoniker": "MyMiddleware.cs",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\MyMiddleware.cs",
+              "RelativeToolTip": "MyMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:17:53.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "First_AspNetCoreMVC",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\First_AspNetCoreMVC.csproj",
+              "RelativeDocumentMoniker": "First_AspNetCoreMVC.csproj",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\First_AspNetCoreMVC.csproj",
+              "RelativeToolTip": "First_AspNetCoreMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-06T03:36:22.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-06T03:32:53.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T04:20:24.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T03:50:00.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
