@@ -1,0 +1,14 @@
+E:\Training\2025\.NET Core\C#_Stack_LINQ\bin\Debug\net8.0\C#_Stack_LINQ.exe
+E:\Training\2025\.NET Core\C#_Stack_LINQ\bin\Debug\net8.0\C#_Stack_LINQ.deps.json
+E:\Training\2025\.NET Core\C#_Stack_LINQ\bin\Debug\net8.0\C#_Stack_LINQ.runtimeconfig.json
+E:\Training\2025\.NET Core\C#_Stack_LINQ\bin\Debug\net8.0\C#_Stack_LINQ.dll
+E:\Training\2025\.NET Core\C#_Stack_LINQ\bin\Debug\net8.0\C#_Stack_LINQ.pdb
+E:\Training\2025\.NET Core\C#_Stack_LINQ\obj\Debug\net8.0\C#_Stack_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\2025\.NET Core\C#_Stack_LINQ\obj\Debug\net8.0\C#_Stack_LINQ.AssemblyInfoInputs.cache
+E:\Training\2025\.NET Core\C#_Stack_LINQ\obj\Debug\net8.0\C#_Stack_LINQ.AssemblyInfo.cs
+E:\Training\2025\.NET Core\C#_Stack_LINQ\obj\Debug\net8.0\C#_Stack_LINQ.csproj.CoreCompileInputs.cache
+E:\Training\2025\.NET Core\C#_Stack_LINQ\obj\Debug\net8.0\C#_Stack_LINQ.dll
+E:\Training\2025\.NET Core\C#_Stack_LINQ\obj\Debug\net8.0\refint\C#_Stack_LINQ.dll
+E:\Training\2025\.NET Core\C#_Stack_LINQ\obj\Debug\net8.0\C#_Stack_LINQ.pdb
+E:\Training\2025\.NET Core\C#_Stack_LINQ\obj\Debug\net8.0\C#_Stack_LINQ.genruntimeconfig.cache
+E:\Training\2025\.NET Core\C#_Stack_LINQ\obj\Debug\net8.0\ref\C#_Stack_LINQ.dll

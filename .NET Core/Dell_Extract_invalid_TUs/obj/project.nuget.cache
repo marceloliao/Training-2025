@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "oMOFY3af9Uo=",
+  "success": true,
+  "projectFilePath": "E:\\Training\\2025\\.NET Core\\Dell_Extract_invalid_TUs\\Dell_Extract_invalid_TUs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maliao\\.nuget\\packages\\nlog\\5.3.4\\nlog.5.3.4.nupkg.sha512",
+    "C:\\Users\\maliao\\.nuget\\packages\\nlog.config\\4.7.15\\nlog.config.4.7.15.nupkg.sha512",
+    "C:\\Users\\maliao\\.nuget\\packages\\nlog.schema\\4.7.15\\nlog.schema.4.7.15.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://pkgs.dev.azure.com/sdl/_packaging/af66e256-9c46-4fba-ad75-09bf110ec1cc/nuget/v3/index.json."
+    }
+  ]
+}

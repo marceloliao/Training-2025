@@ -1,0 +1,14 @@
+E:\Training\2025\.NET Core\C_Sharp_Event\bin\Debug\net8.0\C_Sharp_Event.exe
+E:\Training\2025\.NET Core\C_Sharp_Event\bin\Debug\net8.0\C_Sharp_Event.deps.json
+E:\Training\2025\.NET Core\C_Sharp_Event\bin\Debug\net8.0\C_Sharp_Event.runtimeconfig.json
+E:\Training\2025\.NET Core\C_Sharp_Event\bin\Debug\net8.0\C_Sharp_Event.dll
+E:\Training\2025\.NET Core\C_Sharp_Event\bin\Debug\net8.0\C_Sharp_Event.pdb
+E:\Training\2025\.NET Core\C_Sharp_Event\obj\Debug\net8.0\C_Sharp_Event.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\2025\.NET Core\C_Sharp_Event\obj\Debug\net8.0\C_Sharp_Event.AssemblyInfoInputs.cache
+E:\Training\2025\.NET Core\C_Sharp_Event\obj\Debug\net8.0\C_Sharp_Event.AssemblyInfo.cs
+E:\Training\2025\.NET Core\C_Sharp_Event\obj\Debug\net8.0\C_Sharp_Event.csproj.CoreCompileInputs.cache
+E:\Training\2025\.NET Core\C_Sharp_Event\obj\Debug\net8.0\C_Sharp_Event.dll
+E:\Training\2025\.NET Core\C_Sharp_Event\obj\Debug\net8.0\refint\C_Sharp_Event.dll
+E:\Training\2025\.NET Core\C_Sharp_Event\obj\Debug\net8.0\C_Sharp_Event.pdb
+E:\Training\2025\.NET Core\C_Sharp_Event\obj\Debug\net8.0\C_Sharp_Event.genruntimeconfig.cache
+E:\Training\2025\.NET Core\C_Sharp_Event\obj\Debug\net8.0\ref\C_Sharp_Event.dll

@@ -1,0 +1,14 @@
+E:\Training\2025\.NET Core\C_Sharp_Anonymous_Method\bin\Debug\net8.0\C_Sharp_Anonymous_Method.exe
+E:\Training\2025\.NET Core\C_Sharp_Anonymous_Method\bin\Debug\net8.0\C_Sharp_Anonymous_Method.deps.json
+E:\Training\2025\.NET Core\C_Sharp_Anonymous_Method\bin\Debug\net8.0\C_Sharp_Anonymous_Method.runtimeconfig.json
+E:\Training\2025\.NET Core\C_Sharp_Anonymous_Method\bin\Debug\net8.0\C_Sharp_Anonymous_Method.dll
+E:\Training\2025\.NET Core\C_Sharp_Anonymous_Method\bin\Debug\net8.0\C_Sharp_Anonymous_Method.pdb
+E:\Training\2025\.NET Core\C_Sharp_Anonymous_Method\obj\Debug\net8.0\C_Sharp_Anonymous_Method.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\2025\.NET Core\C_Sharp_Anonymous_Method\obj\Debug\net8.0\C_Sharp_Anonymous_Method.AssemblyInfoInputs.cache
+E:\Training\2025\.NET Core\C_Sharp_Anonymous_Method\obj\Debug\net8.0\C_Sharp_Anonymous_Method.AssemblyInfo.cs
+E:\Training\2025\.NET Core\C_Sharp_Anonymous_Method\obj\Debug\net8.0\C_Sharp_Anonymous_Method.csproj.CoreCompileInputs.cache
+E:\Training\2025\.NET Core\C_Sharp_Anonymous_Method\obj\Debug\net8.0\C_Sharp_Anonymous_Method.dll
+E:\Training\2025\.NET Core\C_Sharp_Anonymous_Method\obj\Debug\net8.0\refint\C_Sharp_Anonymous_Method.dll
+E:\Training\2025\.NET Core\C_Sharp_Anonymous_Method\obj\Debug\net8.0\C_Sharp_Anonymous_Method.pdb
+E:\Training\2025\.NET Core\C_Sharp_Anonymous_Method\obj\Debug\net8.0\C_Sharp_Anonymous_Method.genruntimeconfig.cache
+E:\Training\2025\.NET Core\C_Sharp_Anonymous_Method\obj\Debug\net8.0\ref\C_Sharp_Anonymous_Method.dll

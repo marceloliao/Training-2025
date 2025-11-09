@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dell_Extract_Cloud_CIQ_TUs", "Dell_Extract_Cloud_CIQ_TUs.csproj", "{B6621BC0-B589-4EB7-A297-DFB6978B6476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6621BC0-B589-4EB7-A297-DFB6978B6476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6621BC0-B589-4EB7-A297-DFB6978B6476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6621BC0-B589-4EB7-A297-DFB6978B6476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6621BC0-B589-4EB7-A297-DFB6978B6476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01AE9FD5-4F8D-4782-A630-05F7D02B81EB}
+	EndGlobalSection
+EndGlobal

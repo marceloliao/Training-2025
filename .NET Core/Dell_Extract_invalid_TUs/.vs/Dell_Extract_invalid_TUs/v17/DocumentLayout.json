@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Training\\2025\\.NET Core\\Dell_Extract_invalid_TUs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70833FD3-EFE8-435A-8656-6EF2FCFD0F93}|Dell_Extract_invalid_TUs.csproj|e:\\training\\2025\\.net core\\dell_extract_invalid_tus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70833FD3-EFE8-435A-8656-6EF2FCFD0F93}|Dell_Extract_invalid_TUs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70833FD3-EFE8-435A-8656-6EF2FCFD0F93}|Dell_Extract_invalid_TUs.csproj|e:\\training\\2025\\.net core\\dell_extract_invalid_tus\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{70833FD3-EFE8-435A-8656-6EF2FCFD0F93}|Dell_Extract_invalid_TUs.csproj|solutionrelative:nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70833FD3-EFE8-435A-8656-6EF2FCFD0F93}|Dell_Extract_invalid_TUs.csproj|e:\\training\\2025\\.net core\\dell_extract_invalid_tus\\dell_extract_invalid_tus.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{70833FD3-EFE8-435A-8656-6EF2FCFD0F93}|Dell_Extract_invalid_TUs.csproj|solutionrelative:dell_extract_invalid_tus.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Training\\2025\\C#\\CSF_Reorganize_TMs\\bin\\Debug\\CSF_Reorganize_TMs.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70833FD3-EFE8-435A-8656-6EF2FCFD0F93}|Dell_Extract_invalid_TUs.csproj|e:\\training\\2025\\.net core\\dell_extract_invalid_tus\\dell_extract_invalid_tus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70833FD3-EFE8-435A-8656-6EF2FCFD0F93}|Dell_Extract_invalid_TUs.csproj|solutionrelative:dell_extract_invalid_tus.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dell_Extract_invalid_TUs",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\Dell_Extract_invalid_TUs\\Dell_Extract_invalid_TUs.csproj",
+              "RelativeDocumentMoniker": "Dell_Extract_invalid_TUs.csproj",
+              "ToolTip": "E:\\Training\\2025\\.NET Core\\Dell_Extract_invalid_TUs\\Dell_Extract_invalid_TUs.csproj",
+              "RelativeToolTip": "Dell_Extract_invalid_TUs.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T17:07:05.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CSF_Reorganize_TMs.exe.config",
+              "DocumentMoniker": "E:\\Training\\2025\\C#\\CSF_Reorganize_TMs\\bin\\Debug\\CSF_Reorganize_TMs.exe.config",
+              "RelativeDocumentMoniker": "..\\..\\C#\\CSF_Reorganize_TMs\\bin\\Debug\\CSF_Reorganize_TMs.exe.config",
+              "ToolTip": "E:\\Training\\2025\\C#\\CSF_Reorganize_TMs\\bin\\Debug\\CSF_Reorganize_TMs.exe.config",
+              "RelativeToolTip": "..\\..\\C#\\CSF_Reorganize_TMs\\bin\\Debug\\CSF_Reorganize_TMs.exe.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-05T22:20:32.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NLog.config",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\Dell_Extract_invalid_TUs\\NLog.config",
+              "RelativeDocumentMoniker": "NLog.config",
+              "ToolTip": "E:\\Training\\2025\\.NET Core\\Dell_Extract_invalid_TUs\\NLog.config",
+              "RelativeToolTip": "NLog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-31T16:34:30.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dell_Extract_invalid_TUs.csproj",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\Dell_Extract_invalid_TUs\\Dell_Extract_invalid_TUs.csproj",
+              "RelativeDocumentMoniker": "Dell_Extract_invalid_TUs.csproj",
+              "ToolTip": "E:\\Training\\2025\\.NET Core\\Dell_Extract_invalid_TUs\\Dell_Extract_invalid_TUs.csproj",
+              "RelativeToolTip": "Dell_Extract_invalid_TUs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-31T16:09:49.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\Dell_Extract_invalid_TUs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Training\\2025\\.NET Core\\Dell_Extract_invalid_TUs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwEoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T16:09:21.085Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

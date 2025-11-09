@@ -1,0 +1,14 @@
+E:\Training\2025\.NET Core\C_Sharp_Generic\bin\Debug\net8.0\C_Sharp_Generic.exe
+E:\Training\2025\.NET Core\C_Sharp_Generic\bin\Debug\net8.0\C_Sharp_Generic.deps.json
+E:\Training\2025\.NET Core\C_Sharp_Generic\bin\Debug\net8.0\C_Sharp_Generic.runtimeconfig.json
+E:\Training\2025\.NET Core\C_Sharp_Generic\bin\Debug\net8.0\C_Sharp_Generic.dll
+E:\Training\2025\.NET Core\C_Sharp_Generic\bin\Debug\net8.0\C_Sharp_Generic.pdb
+E:\Training\2025\.NET Core\C_Sharp_Generic\obj\Debug\net8.0\C_Sharp_Generic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\2025\.NET Core\C_Sharp_Generic\obj\Debug\net8.0\C_Sharp_Generic.AssemblyInfoInputs.cache
+E:\Training\2025\.NET Core\C_Sharp_Generic\obj\Debug\net8.0\C_Sharp_Generic.AssemblyInfo.cs
+E:\Training\2025\.NET Core\C_Sharp_Generic\obj\Debug\net8.0\C_Sharp_Generic.csproj.CoreCompileInputs.cache
+E:\Training\2025\.NET Core\C_Sharp_Generic\obj\Debug\net8.0\C_Sharp_Generic.dll
+E:\Training\2025\.NET Core\C_Sharp_Generic\obj\Debug\net8.0\refint\C_Sharp_Generic.dll
+E:\Training\2025\.NET Core\C_Sharp_Generic\obj\Debug\net8.0\C_Sharp_Generic.pdb
+E:\Training\2025\.NET Core\C_Sharp_Generic\obj\Debug\net8.0\C_Sharp_Generic.genruntimeconfig.cache
+E:\Training\2025\.NET Core\C_Sharp_Generic\obj\Debug\net8.0\ref\C_Sharp_Generic.dll

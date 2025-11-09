@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <body>
+    <div id="root"></div>
+    <p id="demo"></p>
+    <p id="demo2"></p>
+    <script type="module" src="/src/jsx_useContext_hook.jsx"></script>
+    <script type="module">
+      import message from "/ES6/message.js";
+
+      document.getElementById("demo").innerHTML = message();
+    </script>
+    <script type="module">
+      import { name, age } from "/ES6/person.js";
+
+      document.getElementById("demo2").innerHTML = "My name is " + name;
+      document.getElementById("demo2").innerHTML += ", I am " + age + ".";
+    </script>
+  </body>
+</html>

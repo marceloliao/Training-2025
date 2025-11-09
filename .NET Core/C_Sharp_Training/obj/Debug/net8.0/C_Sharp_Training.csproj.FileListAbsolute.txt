@@ -1,0 +1,28 @@
+E:\Training\2025\C#\C_Sharp_Training\bin\Debug\net8.0\C_Sharp_Training.exe
+E:\Training\2025\C#\C_Sharp_Training\bin\Debug\net8.0\C_Sharp_Training.deps.json
+E:\Training\2025\C#\C_Sharp_Training\bin\Debug\net8.0\C_Sharp_Training.runtimeconfig.json
+E:\Training\2025\C#\C_Sharp_Training\bin\Debug\net8.0\C_Sharp_Training.dll
+E:\Training\2025\C#\C_Sharp_Training\bin\Debug\net8.0\C_Sharp_Training.pdb
+E:\Training\2025\C#\C_Sharp_Training\obj\Debug\net8.0\C_Sharp_Training.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\2025\C#\C_Sharp_Training\obj\Debug\net8.0\C_Sharp_Training.AssemblyInfoInputs.cache
+E:\Training\2025\C#\C_Sharp_Training\obj\Debug\net8.0\C_Sharp_Training.AssemblyInfo.cs
+E:\Training\2025\C#\C_Sharp_Training\obj\Debug\net8.0\C_Sharp_Training.csproj.CoreCompileInputs.cache
+E:\Training\2025\C#\C_Sharp_Training\obj\Debug\net8.0\C_Sharp_Training.dll
+E:\Training\2025\C#\C_Sharp_Training\obj\Debug\net8.0\refint\C_Sharp_Training.dll
+E:\Training\2025\C#\C_Sharp_Training\obj\Debug\net8.0\C_Sharp_Training.pdb
+E:\Training\2025\C#\C_Sharp_Training\obj\Debug\net8.0\C_Sharp_Training.genruntimeconfig.cache
+E:\Training\2025\C#\C_Sharp_Training\obj\Debug\net8.0\ref\C_Sharp_Training.dll
+E:\Training\2025\.NET Core\C_Sharp_Training\bin\Debug\net8.0\C_Sharp_Training.exe
+E:\Training\2025\.NET Core\C_Sharp_Training\bin\Debug\net8.0\C_Sharp_Training.deps.json
+E:\Training\2025\.NET Core\C_Sharp_Training\bin\Debug\net8.0\C_Sharp_Training.runtimeconfig.json
+E:\Training\2025\.NET Core\C_Sharp_Training\bin\Debug\net8.0\C_Sharp_Training.dll
+E:\Training\2025\.NET Core\C_Sharp_Training\bin\Debug\net8.0\C_Sharp_Training.pdb
+E:\Training\2025\.NET Core\C_Sharp_Training\obj\Debug\net8.0\C_Sharp_Training.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\2025\.NET Core\C_Sharp_Training\obj\Debug\net8.0\C_Sharp_Training.AssemblyInfoInputs.cache
+E:\Training\2025\.NET Core\C_Sharp_Training\obj\Debug\net8.0\C_Sharp_Training.AssemblyInfo.cs
+E:\Training\2025\.NET Core\C_Sharp_Training\obj\Debug\net8.0\C_Sharp_Training.csproj.CoreCompileInputs.cache
+E:\Training\2025\.NET Core\C_Sharp_Training\obj\Debug\net8.0\C_Sharp_Training.dll
+E:\Training\2025\.NET Core\C_Sharp_Training\obj\Debug\net8.0\refint\C_Sharp_Training.dll
+E:\Training\2025\.NET Core\C_Sharp_Training\obj\Debug\net8.0\C_Sharp_Training.pdb
+E:\Training\2025\.NET Core\C_Sharp_Training\obj\Debug\net8.0\C_Sharp_Training.genruntimeconfig.cache
+E:\Training\2025\.NET Core\C_Sharp_Training\obj\Debug\net8.0\ref\C_Sharp_Training.dll

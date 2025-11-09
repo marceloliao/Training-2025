@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <p id="demo"></p>
+    <script>
+      const person = {
+        firstName: "John",
+        lastName: "Smith",
+        age: 50,
+        car: {
+          brand: "Ford",
+          model: "Mustang",
+        },
+      };
+
+      let {
+        firstName,
+        lastName,
+        car: { brand, model },
+      } = person;
+
+      document.getElementById(
+        "demo"
+      ).innerHTML = `${firstName} ${lastName}'car is a ${brand} ${model}.`;
+    </script>
+  </body>
+</html>

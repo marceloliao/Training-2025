@@ -1,0 +1,120 @@
+2025-02-19 21:16:05.3792 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-19 21:16:05.3863 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-19 21:16:05.3863 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-19 21:16:05.4531 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0\NLog.config
+2025-02-19 21:16:05.4931 Info Configuration initialized.
+2025-02-19 21:16:54.5186 Info AppDomain Shutting down. LogFactory closing...
+2025-02-19 21:16:54.6302 Info LogFactory has been closed.
+2025-02-19 21:17:59.2773 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-19 21:17:59.2773 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-19 21:17:59.2912 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-19 21:17:59.3235 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0\NLog.config
+2025-02-19 21:17:59.3360 Info Configuration initialized.
+2025-02-19 21:21:15.9685 Info AppDomain Shutting down. LogFactory closing...
+2025-02-19 21:21:16.0544 Info LogFactory has been closed.
+2025-02-20 15:06:21.5994 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-20 15:06:21.6167 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-20 15:06:21.6315 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-20 15:06:21.7903 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0\NLog.config
+2025-02-20 15:06:21.8281 Info Configuration initialized.
+2025-02-20 15:12:25.4308 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-20 15:12:25.4308 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-20 15:12:25.4458 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-20 15:12:25.4769 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0\NLog.config
+2025-02-20 15:12:25.4878 Info Configuration initialized.
+2025-02-20 15:25:15.7120 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-20 15:25:15.7197 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-20 15:25:15.7197 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-20 15:25:15.7538 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0\NLog.config
+2025-02-20 15:25:15.7648 Info Configuration initialized.
+2025-02-20 15:36:11.8703 Info AppDomain Shutting down. LogFactory closing...
+2025-02-20 15:36:11.9858 Info LogFactory has been closed.
+2025-02-20 16:46:02.3261 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-20 16:46:02.3368 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-20 16:46:02.3457 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-20 16:46:02.3849 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0\NLog.config
+2025-02-20 16:46:02.3990 Info Configuration initialized.
+2025-02-20 16:52:47.1368 Info AppDomain Shutting down. LogFactory closing...
+2025-02-20 16:52:47.2438 Info LogFactory has been closed.
+2025-02-20 16:53:28.3465 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-20 16:53:28.3465 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-20 16:53:28.3634 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-20 16:53:28.3982 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0\NLog.config
+2025-02-20 16:53:28.4116 Info Configuration initialized.
+2025-02-20 16:54:47.2030 Info AppDomain Shutting down. LogFactory closing...
+2025-02-20 16:54:47.2661 Info LogFactory has been closed.
+2025-02-20 16:55:53.7665 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-20 16:55:53.7733 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-20 16:55:53.7733 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-20 16:55:53.8069 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0\NLog.config
+2025-02-20 16:55:53.8175 Info Configuration initialized.
+2025-02-20 16:56:11.0281 Info AppDomain Shutting down. LogFactory closing...
+2025-02-20 16:56:11.0557 Info LogFactory has been closed.
+2025-02-20 16:57:35.5530 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-20 16:57:35.5530 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-20 16:57:35.5530 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-20 16:57:35.5935 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0\NLog.config
+2025-02-20 16:57:35.6039 Info Configuration initialized.
+2025-02-20 16:57:49.6006 Info AppDomain Shutting down. LogFactory closing...
+2025-02-20 16:57:49.6279 Info LogFactory has been closed.
+2025-02-20 16:59:51.0953 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-20 16:59:51.1038 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-20 16:59:51.1038 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-20 16:59:51.1494 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0\NLog.config
+2025-02-20 16:59:51.1663 Info Configuration initialized.
+2025-02-20 17:07:06.4522 Info AppDomain Shutting down. LogFactory closing...
+2025-02-20 17:07:06.5236 Info LogFactory has been closed.
+2025-02-20 17:12:54.7591 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-20 17:12:54.7591 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-20 17:12:54.7753 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-20 17:12:54.8083 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0\NLog.config
+2025-02-20 17:12:54.8222 Info Configuration initialized.
+2025-02-20 17:19:56.4149 Info AppDomain Shutting down. LogFactory closing...
+2025-02-20 17:19:56.4748 Info LogFactory has been closed.
+2025-02-20 19:51:03.7929 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-20 19:51:03.8010 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-20 19:51:03.8010 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-20 19:51:03.8371 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0\NLog.config
+2025-02-20 19:51:03.8839 Info Configuration initialized.
+2025-02-20 19:55:16.2613 Info AppDomain Shutting down. LogFactory closing...
+2025-02-20 19:55:16.3354 Info LogFactory has been closed.
+2025-02-20 21:53:58.1747 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-20 21:53:58.1872 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-20 21:53:58.1872 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-20 21:53:58.2372 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0\NLog.config
+2025-02-20 21:53:58.2979 Info Configuration initialized.
+2025-02-20 22:06:20.8936 Info AppDomain Shutting down. LogFactory closing...
+2025-02-20 22:06:20.9827 Info LogFactory has been closed.
+2025-02-20 22:08:04.1179 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-20 22:08:04.1291 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-20 22:08:04.1291 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-20 22:08:04.1845 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0\NLog.config
+2025-02-20 22:08:04.2428 Info Configuration initialized.
+2025-02-20 22:08:25.7311 Info AppDomain Shutting down. LogFactory closing...
+2025-02-20 22:08:25.8287 Info LogFactory has been closed.
+2025-02-20 22:09:37.9536 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-20 22:09:37.9605 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-20 22:09:37.9605 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-20 22:09:37.9957 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0\NLog.config
+2025-02-20 22:09:38.0072 Info Configuration initialized.
+2025-02-20 22:10:32.0053 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-20 22:10:32.0053 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-20 22:10:32.0213 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-20 22:10:32.0427 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0 - Copy\NLog.config
+2025-02-20 22:10:32.0551 Info Configuration initialized.
+2025-02-20 22:10:45.6546 Info AppDomain Shutting down. LogFactory closing...
+2025-02-20 22:10:45.6734 Info LogFactory has been closed.
+2025-02-20 22:11:17.8871 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-20 22:11:17.9004 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-20 22:11:17.9094 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-20 22:11:17.9360 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0 - Copy\NLog.config
+2025-02-20 22:11:17.9559 Info Configuration initialized.
+2025-02-20 22:19:27.4144 Info AppDomain Shutting down. LogFactory closing...
+2025-02-20 22:19:27.4339 Info LogFactory has been closed.
+2025-02-20 22:24:11.3167 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-20 22:24:11.3167 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-20 22:24:11.3342 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-20 22:24:11.3567 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\Dell_Extract_Cloud_CIQ_TUs\bin\Debug\net8.0 - Copy\NLog.config
+2025-02-20 22:24:11.3717 Info Configuration initialized.
+2025-02-20 22:27:07.4760 Info AppDomain Shutting down. LogFactory closing...
+2025-02-20 22:27:07.4966 Info LogFactory has been closed.

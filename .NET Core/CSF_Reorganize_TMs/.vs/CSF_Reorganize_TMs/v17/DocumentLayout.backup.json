@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Training\\2025\\.NET Core\\CSF_Reorganize_TMs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C6C673-D27F-4B35-BCC8-CB73088D3124}|CSF_Reorganize_TMs.csproj|e:\\training\\2025\\.net core\\csf_reorganize_tms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C6C673-D27F-4B35-BCC8-CB73088D3124}|CSF_Reorganize_TMs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C6C673-D27F-4B35-BCC8-CB73088D3124}|CSF_Reorganize_TMs.csproj|e:\\training\\2025\\.net core\\csf_reorganize_tms\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F7C6C673-D27F-4B35-BCC8-CB73088D3124}|CSF_Reorganize_TMs.csproj|solutionrelative:nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C6C673-D27F-4B35-BCC8-CB73088D3124}|CSF_Reorganize_TMs.csproj|e:\\training\\2025\\.net core\\csf_reorganize_tms\\csf_reorganize_tms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7C6C673-D27F-4B35-BCC8-CB73088D3124}|CSF_Reorganize_TMs.csproj|solutionrelative:csf_reorganize_tms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NLog.config",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\CSF_Reorganize_TMs\\NLog.config",
+              "RelativeDocumentMoniker": "NLog.config",
+              "ToolTip": "E:\\Training\\2025\\.NET Core\\CSF_Reorganize_TMs\\NLog.config",
+              "RelativeToolTip": "NLog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-19T20:56:50.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CSF_Reorganize_TMs.csproj",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\CSF_Reorganize_TMs\\CSF_Reorganize_TMs.csproj",
+              "RelativeDocumentMoniker": "CSF_Reorganize_TMs.csproj",
+              "ToolTip": "E:\\Training\\2025\\.NET Core\\CSF_Reorganize_TMs\\CSF_Reorganize_TMs.csproj",
+              "RelativeToolTip": "CSF_Reorganize_TMs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T17:11:20.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\CSF_Reorganize_TMs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Training\\2025\\.NET Core\\CSF_Reorganize_TMs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAlwIwAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T17:10:45.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

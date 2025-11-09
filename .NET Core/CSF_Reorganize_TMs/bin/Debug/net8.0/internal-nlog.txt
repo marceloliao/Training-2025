@@ -1,0 +1,5 @@
+2025-02-19 16:33:48.5994 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-02-19 16:33:48.6175 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-02-19 16:33:48.6297 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.4.0.3182. Product version: 5.4.0+4d45d445601312040107cbe2ac00e56c4bf4a60b. GlobalAssemblyCache: False
+2025-02-19 16:33:48.7437 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\.NET Core\CSF_Reorganize_TMs\bin\Debug\net8.0\NLog.config
+2025-02-19 16:33:48.7674 Info Configuration initialized.

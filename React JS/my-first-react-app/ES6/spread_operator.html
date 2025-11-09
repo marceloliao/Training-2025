@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <script>
+      const number1 = [1, 2, 3];
+      const number2 = [4, 5, 6];
+      const combined = [...number1, ...number2];
+
+      const numbers = [1, 2, 3, 4, 5, 6];
+      // Use with destructuring
+      const [first, second, ...rest] = numbers;
+
+      document.write(`<p>${combined}</p>`);
+      document.write(`<p>${first}</p>`);
+      document.write(`<p>${second}</p>`);
+      document.write(`<p>${rest}</p>`);
+
+      // Use Spread operator with objects
+      const Vehicle = {
+        brand: "Ford",
+        model: "Mustang",
+        color: "Ford",
+      };
+      const newVehicle = {
+        type: "Car",
+        year: 2021,
+        color: "yellow",
+      };
+
+      const updatedVehicle = { ...Vehicle, ...newVehicle };
+      console.log(updatedVehicle);
+    </script>
+    <p>Press F12 and see the result in Console.</p>
+  </body>
+</html>

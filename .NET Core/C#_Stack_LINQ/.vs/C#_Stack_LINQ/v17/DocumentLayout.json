@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Training\\2025\\.NET Core\\C#_Stack_LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19DE32B4-2C7A-4031-ADF1-ED0141A26982}|C#_Stack_LINQ.csproj|e:\\training\\2025\\.net core\\c#_stack_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DE32B4-2C7A-4031-ADF1-ED0141A26982}|C#_Stack_LINQ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DE32B4-2C7A-4031-ADF1-ED0141A26982}|C#_Stack_LINQ.csproj|e:\\training\\2025\\.net core\\c#_stack_linq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DE32B4-2C7A-4031-ADF1-ED0141A26982}|C#_Stack_LINQ.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DE32B4-2C7A-4031-ADF1-ED0141A26982}|C#_Stack_LINQ.csproj|e:\\training\\2025\\.net core\\c#_stack_linq\\studentextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19DE32B4-2C7A-4031-ADF1-ED0141A26982}|C#_Stack_LINQ.csproj|solutionrelative:studentextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19DE32B4-2C7A-4031-ADF1-ED0141A26982}|C#_Stack_LINQ.csproj|e:\\training\\2025\\.net core\\c#_stack_linq\\c#_stack_linq.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{19DE32B4-2C7A-4031-ADF1-ED0141A26982}|C#_Stack_LINQ.csproj|solutionrelative:c#_stack_linq.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentExtension.cs",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\C#_Stack_LINQ\\StudentExtension.cs",
+              "RelativeDocumentMoniker": "StudentExtension.cs",
+              "ToolTip": "E:\\Training\\2025\\.NET Core\\C#_Stack_LINQ\\StudentExtension.cs",
+              "RelativeToolTip": "StudentExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:46:22.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\C#_Stack_LINQ\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "E:\\Training\\2025\\.NET Core\\C#_Stack_LINQ\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:42:50.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "C#_Stack_LINQ",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\C#_Stack_LINQ\\C#_Stack_LINQ.csproj",
+              "RelativeDocumentMoniker": "C#_Stack_LINQ.csproj",
+              "ToolTip": "E:\\Training\\2025\\.NET Core\\C#_Stack_LINQ\\C#_Stack_LINQ.csproj",
+              "RelativeToolTip": "C#_Stack_LINQ.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T19:59:11.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\C#_Stack_LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Training\\2025\\.NET Core\\C#_Stack_LINQ\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwHEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T19:39:03.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

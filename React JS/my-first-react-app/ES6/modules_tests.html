@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <p id="demo"></p>
+    <script type="module">
+      import {
+        name,
+        age,
+      } from "/Training/React JS/my-first-react-app/ES6/person.js";
+
+      document.getElementById("demo").innerHTML = "My name is " + name;
+      document.getElementById("demo").innerHTML += ", I am " + age + ".";
+    </script>
+  </body>
+</html>

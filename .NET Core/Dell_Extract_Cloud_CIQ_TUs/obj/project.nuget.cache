@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wOyeBOvAXhU=",
+  "success": true,
+  "projectFilePath": "E:\\Training\\2025\\.NET Core\\Dell_Extract_Cloud_CIQ_TUs\\Dell_Extract_Cloud_CIQ_TUs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maliao\\.nuget\\packages\\nlog\\5.4.0\\nlog.5.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,130 @@
+2025-01-31 11:52:35.0867 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 11:52:35.1235 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 11:52:35.1341 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 11:52:35.1752 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 11:52:35.1926 Info Configuration initialized.
+2025-01-31 11:52:42.7473 Info AppDomain Shutting down. LogFactory closing...
+2025-01-31 11:52:42.8099 Info LogFactory has been closed.
+2025-01-31 11:53:36.5842 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 11:53:36.6093 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 11:53:36.6093 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 11:53:36.6553 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 11:53:36.6736 Info Configuration initialized.
+2025-01-31 11:53:42.4355 Info AppDomain Shutting down. LogFactory closing...
+2025-01-31 11:53:42.4765 Info LogFactory has been closed.
+2025-01-31 12:22:54.2663 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 12:22:54.2864 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 12:22:54.3018 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 12:22:54.3457 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 12:22:54.3636 Info Configuration initialized.
+2025-01-31 12:23:04.9392 Info AppDomain Shutting down. LogFactory closing...
+2025-01-31 12:23:04.9695 Info LogFactory has been closed.
+2025-01-31 12:25:54.1076 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 12:25:54.1192 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 12:25:54.1192 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 12:25:54.1670 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 12:25:54.1858 Info Configuration initialized.
+2025-01-31 12:26:01.0872 Info AppDomain Shutting down. LogFactory closing...
+2025-01-31 12:26:01.1120 Info LogFactory has been closed.
+2025-01-31 13:02:38.5267 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 13:02:38.5379 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 13:02:38.5379 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 13:02:38.6673 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 13:02:38.6917 Info Configuration initialized.
+2025-01-31 13:02:39.6396 Info AppDomain Shutting down. LogFactory closing...
+2025-01-31 13:02:39.6999 Info LogFactory has been closed.
+2025-01-31 13:05:50.1980 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 13:05:50.1980 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 13:05:50.2183 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 13:05:50.2621 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 13:05:50.2836 Info Configuration initialized.
+2025-01-31 13:06:27.7267 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 13:06:27.7371 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 13:06:27.7371 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 13:06:27.7908 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 13:06:27.8110 Info Configuration initialized.
+2025-01-31 13:09:51.7156 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 13:09:51.7312 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 13:09:51.7423 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 13:09:51.8082 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 13:09:51.8275 Info Configuration initialized.
+2025-01-31 13:09:52.0993 Info AppDomain Shutting down. LogFactory closing...
+2025-01-31 13:09:52.1335 Info LogFactory has been closed.
+2025-01-31 13:10:26.4201 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 13:10:26.4315 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 13:10:26.4426 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 13:10:26.4932 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 13:10:26.5188 Info Configuration initialized.
+2025-01-31 13:12:14.1199 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 13:12:14.1309 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 13:12:14.1309 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 13:12:14.1817 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 13:12:14.2019 Info Configuration initialized.
+2025-01-31 13:12:18.8921 Info AppDomain Shutting down. LogFactory closing...
+2025-01-31 13:12:18.9190 Info LogFactory has been closed.
+2025-01-31 13:13:40.1279 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 13:13:40.1408 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 13:13:40.1514 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 13:13:40.2034 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 13:13:40.2255 Info Configuration initialized.
+2025-01-31 13:13:40.5589 Info AppDomain Shutting down. LogFactory closing...
+2025-01-31 13:13:40.6026 Info LogFactory has been closed.
+2025-01-31 13:18:55.0606 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 13:18:55.0731 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 13:18:55.0731 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 13:18:55.1302 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 13:18:55.1565 Info Configuration initialized.
+2025-01-31 13:18:55.4890 Info AppDomain Shutting down. LogFactory closing...
+2025-01-31 13:18:55.5214 Info LogFactory has been closed.
+2025-01-31 13:26:41.5936 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 13:26:41.5936 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 13:26:41.6089 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 13:26:41.6457 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 13:26:41.6628 Info Configuration initialized.
+2025-01-31 13:26:41.8653 Info AppDomain Shutting down. LogFactory closing...
+2025-01-31 13:26:41.8953 Info LogFactory has been closed.
+2025-01-31 17:47:05.9361 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 17:47:05.9503 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 17:47:05.9621 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 17:47:06.0136 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 17:47:06.0321 Info Configuration initialized.
+2025-01-31 17:51:01.7593 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 17:51:01.7593 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 17:51:01.7747 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 17:51:01.8089 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 17:51:01.8227 Info Configuration initialized.
+2025-01-31 17:51:20.4947 Info AppDomain Shutting down. LogFactory closing...
+2025-01-31 17:51:20.5330 Info LogFactory has been closed.
+2025-01-31 17:51:50.1635 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 17:51:50.1635 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 17:51:50.1845 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 17:51:50.2308 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 17:51:50.2538 Info Configuration initialized.
+2025-01-31 17:51:51.4900 Info AppDomain Shutting down. LogFactory closing...
+2025-01-31 17:51:51.5272 Info LogFactory has been closed.
+2025-01-31 17:54:09.9388 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 17:54:09.9479 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 17:54:09.9479 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 17:54:09.9936 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 17:54:10.0083 Info Configuration initialized.
+2025-01-31 17:56:28.8550 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 17:56:28.8652 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 17:56:28.8749 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 17:56:28.9160 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 17:56:28.9894 Info Configuration initialized.
+2025-01-31 17:56:29.8732 Info AppDomain Shutting down. LogFactory closing...
+2025-01-31 17:56:29.9076 Info LogFactory has been closed.
+2025-01-31 18:00:01.6094 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 18:00:01.6228 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 18:00:01.6228 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 18:00:01.6765 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 18:00:01.6955 Info Configuration initialized.
+2025-01-31 18:00:57.8981 Info AppDomain Shutting down. LogFactory closing...
+2025-01-31 18:00:57.9926 Info LogFactory has been closed.
+2025-01-31 18:07:37.0861 Info Registered target NLog.Targets.FileTarget(Name=fileTarget)
+2025-01-31 18:07:37.5948 Info Registered target NLog.Targets.ConsoleTarget(Name=consoleTarget)
+2025-01-31 18:07:37.5948 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.4.2778. Product version: 5.3.4+73d83d3161d31288ca5c554cc50d27b6bed5f28b. GlobalAssemblyCache: False
+2025-01-31 18:07:37.6264 Info Validating config: TargetNames=fileTarget, consoleTarget, ConfigItems=17, FilePath=E:\Training\2025\C#\Dell_Extract_invalid_TUs\bin\Debug\net8.0\NLog.config
+2025-01-31 18:07:37.6411 Info Configuration initialized.
+2025-01-31 18:09:19.9298 Info AppDomain Shutting down. LogFactory closing...
+2025-01-31 18:09:19.9564 Info LogFactory has been closed.

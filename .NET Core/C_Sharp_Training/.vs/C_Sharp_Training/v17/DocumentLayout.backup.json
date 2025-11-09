@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Training\\2025\\.NET Core\\C_Sharp_Training\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3ECAFB-864E-4463-873F-443B0A6AE264}|C_Sharp_Training.csproj|e:\\training\\2025\\.net core\\c_sharp_training\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3ECAFB-864E-4463-873F-443B0A6AE264}|C_Sharp_Training.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3ECAFB-864E-4463-873F-443B0A6AE264}|C_Sharp_Training.csproj|e:\\training\\2025\\.net core\\c_sharp_training\\c_sharp_training.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EA3ECAFB-864E-4463-873F-443B0A6AE264}|C_Sharp_Training.csproj|solutionrelative:c_sharp_training.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3ECAFB-864E-4463-873F-443B0A6AE264}|C_Sharp_Training.csproj|e:\\training\\2025\\.net core\\c_sharp_training\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3ECAFB-864E-4463-873F-443B0A6AE264}|C_Sharp_Training.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 223,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\C_Sharp_Training\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "E:\\Training\\2025\\.NET Core\\C_Sharp_Training\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:32:52.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C_Sharp_Training",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\C_Sharp_Training\\C_Sharp_Training.csproj",
+              "RelativeDocumentMoniker": "C_Sharp_Training.csproj",
+              "ToolTip": "E:\\Training\\2025\\.NET Core\\C_Sharp_Training\\C_Sharp_Training.csproj",
+              "RelativeToolTip": "C_Sharp_Training.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-19T17:08:06.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\C_Sharp_Training\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Training\\2025\\.NET Core\\C_Sharp_Training\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAArwK0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:15:00.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

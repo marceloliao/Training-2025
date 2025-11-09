@@ -1,0 +1,14 @@
+E:\Training\2025\.NET Core\C_Sharp_Reflection\bin\Debug\net8.0\C_Sharp_Reflection.exe
+E:\Training\2025\.NET Core\C_Sharp_Reflection\bin\Debug\net8.0\C_Sharp_Reflection.deps.json
+E:\Training\2025\.NET Core\C_Sharp_Reflection\bin\Debug\net8.0\C_Sharp_Reflection.runtimeconfig.json
+E:\Training\2025\.NET Core\C_Sharp_Reflection\bin\Debug\net8.0\C_Sharp_Reflection.dll
+E:\Training\2025\.NET Core\C_Sharp_Reflection\bin\Debug\net8.0\C_Sharp_Reflection.pdb
+E:\Training\2025\.NET Core\C_Sharp_Reflection\obj\Debug\net8.0\C_Sharp_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\2025\.NET Core\C_Sharp_Reflection\obj\Debug\net8.0\C_Sharp_Reflection.AssemblyInfoInputs.cache
+E:\Training\2025\.NET Core\C_Sharp_Reflection\obj\Debug\net8.0\C_Sharp_Reflection.AssemblyInfo.cs
+E:\Training\2025\.NET Core\C_Sharp_Reflection\obj\Debug\net8.0\C_Sharp_Reflection.csproj.CoreCompileInputs.cache
+E:\Training\2025\.NET Core\C_Sharp_Reflection\obj\Debug\net8.0\C_Sharp_Reflection.dll
+E:\Training\2025\.NET Core\C_Sharp_Reflection\obj\Debug\net8.0\refint\C_Sharp_Reflection.dll
+E:\Training\2025\.NET Core\C_Sharp_Reflection\obj\Debug\net8.0\C_Sharp_Reflection.pdb
+E:\Training\2025\.NET Core\C_Sharp_Reflection\obj\Debug\net8.0\C_Sharp_Reflection.genruntimeconfig.cache
+E:\Training\2025\.NET Core\C_Sharp_Reflection\obj\Debug\net8.0\ref\C_Sharp_Reflection.dll

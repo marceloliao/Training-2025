@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Training\\2025\\.NET Core\\C_Sharp_Reflection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21A41B70-CCC0-47EB-96A2-B9EA2C2B9CC0}|C_Sharp_Reflection.csproj|e:\\training\\2025\\.net core\\c_sharp_reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21A41B70-CCC0-47EB-96A2-B9EA2C2B9CC0}|C_Sharp_Reflection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21A41B70-CCC0-47EB-96A2-B9EA2C2B9CC0}|C_Sharp_Reflection.csproj|e:\\training\\2025\\.net core\\c_sharp_reflection\\c_sharp_reflection.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{21A41B70-CCC0-47EB-96A2-B9EA2C2B9CC0}|C_Sharp_Reflection.csproj|solutionrelative:c_sharp_reflection.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "C_Sharp_Reflection",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\C_Sharp_Reflection\\C_Sharp_Reflection.csproj",
+              "RelativeDocumentMoniker": "C_Sharp_Reflection.csproj",
+              "ToolTip": "E:\\Training\\2025\\.NET Core\\C_Sharp_Reflection\\C_Sharp_Reflection.csproj",
+              "RelativeToolTip": "C_Sharp_Reflection.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-23T03:15:29.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\C_Sharp_Reflection\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Training\\2025\\.NET Core\\C_Sharp_Reflection\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T03:15:16.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
