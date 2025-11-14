@@ -31,7 +31,6 @@ function Component3({ user }) {
     return (
         <>
             <h1>{message}</h1>
-            {/* Call the second component  */}
             <h1>{`Hello ${user} again, we met in Component3 `}</h1>
         </>
     )
