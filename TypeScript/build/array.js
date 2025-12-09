@@ -1,11 +1,9 @@
-const names: string[] = [];
+var names = [];
 names.push("Dylan");
 names.push("Mike");
 // names.push(3);
 console.log(names);
-
-const numbers = [1,2,3];
+var numbers = [1, 2, 3];
 numbers.push(4);
 numbers.push(5);
-
 console.log(numbers);
