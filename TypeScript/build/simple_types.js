@@ -1,3 +1,4 @@
+"use strict";
 // Boolean
 var isActive = true;
 var hasPermission = false;

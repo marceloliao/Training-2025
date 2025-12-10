@@ -1,12 +1,13 @@
+"use strict";
 var CardinalDirections;
 (function (CardinalDirections) {
-    CardinalDirections[CardinalDirections["North"] = 0] = "North";
-    CardinalDirections[CardinalDirections["East"] = 1] = "East";
-    CardinalDirections[CardinalDirections["South"] = 2] = "South";
-    CardinalDirections[CardinalDirections["West"] = 3] = "West";
+    CardinalDirections[CardinalDirections["North"] = 3] = "North";
+    CardinalDirections[CardinalDirections["East"] = 4] = "East";
+    CardinalDirections[CardinalDirections["South"] = 5] = "South";
+    CardinalDirections[CardinalDirections["West"] = 6] = "West";
 })(CardinalDirections || (CardinalDirections = {}));
 // console.log(CardinalDirections.North);
 var currentDirection = CardinalDirections.North;
 console.log(currentDirection);
-currentDirection = 3;
+currentDirection = 6;
 console.log(currentDirection);

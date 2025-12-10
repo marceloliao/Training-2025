@@ -1,12 +1,11 @@
 {
   "compilerOptions": {
     // ... other options (target, module, strict, etc.) ...
-
+    "strict": true,
     "outDir": "./build",
-    
     // Optional: If you want to exclude the 'build' folder 
     // from being watched or compiled by tsc itself
-    "rootDir": "./src" 
+    "rootDir": "./src"
   },
   "include": [
     "./src/**/*"

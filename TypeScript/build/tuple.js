@@ -1,3 +1,4 @@
+"use strict";
 var graph = [3.14, "pi"];
 console.log(graph[1]);
 console.log(graph);
