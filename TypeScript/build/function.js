@@ -13,3 +13,6 @@ function divide2(_a) {
     return dividend / divisor;
 }
 console.log(divide2({ dividend: 15, divisor: 3 }));
+// In this new function, the parameter `value` automatically gets assigned the type `number` from the type `Negate`
+var negateFunction = function (value) { return value * -1; };
+console.log(negateFunction(30));
