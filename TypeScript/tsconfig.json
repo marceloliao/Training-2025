@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     // ... other options (target, module, strict, etc.) ...
+    "strictNullChecks": true,
     "strict": true,
     "outDir": "./build",
     // Optional: If you want to exclude the 'build' folder 
