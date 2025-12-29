@@ -4,8 +4,12 @@ import { useRef } from 'react';
 function App() {
     const inputElement = useRef();
 
-    const focusInput = () => {
-        inputElement.current.focus();
+    // const focusInput = () => {
+    //     inputElement.current.focus();
+    // };
+
+    const clearInput = () => {
+        inputElement.current.value = "";
     };
 
     // const changeValue = () => {
@@ -16,7 +20,7 @@ function App() {
         <>
             <p>Using useRef to access DOM element</p>
             <input type="text" ref={inputElement} />&nbsp;
-            <button onClick={focusInput}>Focus Input</button>
+            <button onClick={clearInput}>Clear Input</button>
         </>
     );
 }

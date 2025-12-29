@@ -4,6 +4,7 @@ import "./index.css";
 import Greeting from "./Greeting.tsx";
 import { SaveButton, NameInput } from "./Events.tsx";
 import MyForm from "./States.tsx";
+import FocusInput from "./useRef.tsx";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
@@ -11,5 +12,6 @@ createRoot(document.getElementById("root")!).render(
     <SaveButton />
     <NameInput />
     <MyForm />
+    <FocusInput />
   </StrictMode>
 );
