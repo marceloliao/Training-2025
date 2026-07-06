@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Movies_AspNetCoreWebAPI.props" />
-</Project>

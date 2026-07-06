@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Default_AspNetCoreMVC.props" />
-</Project>

@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\LoginApi_AspNetCoreWebAPI.props" />
-</Project>

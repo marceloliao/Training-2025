@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\CustomerApi_AspNetCoreWebAPI.props" />
-</Project>
