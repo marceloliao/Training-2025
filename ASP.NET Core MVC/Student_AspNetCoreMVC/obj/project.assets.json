@@ -7844,11 +7844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Training\\2025\\ASP.NET Core MVC\\Student_AspNetCoreMVC\\Student_AspNetCoreMVC.csproj",
+      "projectUniqueName": "D:\\Training-2025\\ASP.NET Core MVC\\Student_AspNetCoreMVC\\Student_AspNetCoreMVC.csproj",
       "projectName": "Student_AspNetCoreMVC",
-      "projectPath": "D:\\Training\\2025\\ASP.NET Core MVC\\Student_AspNetCoreMVC\\Student_AspNetCoreMVC.csproj",
+      "projectPath": "D:\\Training-2025\\ASP.NET Core MVC\\Student_AspNetCoreMVC\\Student_AspNetCoreMVC.csproj",
       "packagesPath": "C:\\Users\\maliao\\.nuget\\packages\\",
-      "outputPath": "D:\\Training\\2025\\ASP.NET Core MVC\\Student_AspNetCoreMVC\\obj\\",
+      "outputPath": "D:\\Training-2025\\ASP.NET Core MVC\\Student_AspNetCoreMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -7882,7 +7882,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -7936,7 +7936,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

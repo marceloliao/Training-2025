@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0yjhalSGTwI=",
+  "dgSpecHash": "FdGMrkgyVx0=",
   "success": true,
-  "projectFilePath": "D:\\Training\\2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\First_AspNetCoreMVC.csproj",
+  "projectFilePath": "D:\\Training-2025\\ASP.NET Core MVC\\First_AspNetCoreMVC\\First_AspNetCoreMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maliao\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.3\\microsoft.data.sqlite.core.9.0.3.nupkg.sha512",
     "C:\\Users\\maliao\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.3\\microsoft.entityframeworkcore.9.0.3.nupkg.sha512",

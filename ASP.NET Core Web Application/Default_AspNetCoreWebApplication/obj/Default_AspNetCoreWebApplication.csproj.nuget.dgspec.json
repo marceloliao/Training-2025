@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Training\\2025\\ASP.NET Core Web Application\\Default_AspNetCoreWebApplication\\Default_AspNetCoreWebApplication.csproj": {}
+    "D:\\Training-2025\\ASP.NET Core Web Application\\Default_AspNetCoreWebApplication\\Default_AspNetCoreWebApplication.csproj": {}
   },
   "projects": {
-    "E:\\Training\\2025\\ASP.NET Core Web Application\\Default_AspNetCoreWebApplication\\Default_AspNetCoreWebApplication.csproj": {
+    "D:\\Training-2025\\ASP.NET Core Web Application\\Default_AspNetCoreWebApplication\\Default_AspNetCoreWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Training\\2025\\ASP.NET Core Web Application\\Default_AspNetCoreWebApplication\\Default_AspNetCoreWebApplication.csproj",
+        "projectUniqueName": "D:\\Training-2025\\ASP.NET Core Web Application\\Default_AspNetCoreWebApplication\\Default_AspNetCoreWebApplication.csproj",
         "projectName": "Default_AspNetCoreWebApplication",
-        "projectPath": "E:\\Training\\2025\\ASP.NET Core Web Application\\Default_AspNetCoreWebApplication\\Default_AspNetCoreWebApplication.csproj",
+        "projectPath": "D:\\Training-2025\\ASP.NET Core Web Application\\Default_AspNetCoreWebApplication\\Default_AspNetCoreWebApplication.csproj",
         "packagesPath": "C:\\Users\\maliao\\.nuget\\packages\\",
-        "outputPath": "E:\\Training\\2025\\ASP.NET Core Web Application\\Default_AspNetCoreWebApplication\\obj\\",
+        "outputPath": "D:\\Training-2025\\ASP.NET Core Web Application\\Default_AspNetCoreWebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -27,8 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/sdl/_packaging/af66e256-9c46-4fba-ad75-09bf110ec1cc/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -46,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -70,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

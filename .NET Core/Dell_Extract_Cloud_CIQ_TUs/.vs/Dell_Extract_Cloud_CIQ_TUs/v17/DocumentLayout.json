@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Training\\2025\\.NET Core\\Dell_Extract_Cloud_CIQ_TUs\\",
+  "WorkspaceRootPath": "C:\\Users\\maliao\\Documents\\Training-2025\\.NET Core\\Dell_Extract_Cloud_CIQ_TUs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6621BC0-B589-4EB7-A297-DFB6978B6476}|Dell_Extract_Cloud_CIQ_TUs.csproj|e:\\training\\2025\\.net core\\dell_extract_cloud_ciq_tus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6621BC0-B589-4EB7-A297-DFB6978B6476}|Dell_Extract_Cloud_CIQ_TUs.csproj|c:\\users\\maliao\\documents\\training-2025\\.net core\\dell_extract_cloud_ciq_tus\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6621BC0-B589-4EB7-A297-DFB6978B6476}|Dell_Extract_Cloud_CIQ_TUs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6621BC0-B589-4EB7-A297-DFB6978B6476}|Dell_Extract_Cloud_CIQ_TUs.csproj|e:\\training\\2025\\.net core\\dell_extract_cloud_ciq_tus\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{B6621BC0-B589-4EB7-A297-DFB6978B6476}|Dell_Extract_Cloud_CIQ_TUs.csproj|c:\\users\\maliao\\documents\\training-2025\\.net core\\dell_extract_cloud_ciq_tus\\dell_extract_cloud_ciq_tus.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B6621BC0-B589-4EB7-A297-DFB6978B6476}|Dell_Extract_Cloud_CIQ_TUs.csproj|solutionrelative:dell_extract_cloud_ciq_tus.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6621BC0-B589-4EB7-A297-DFB6978B6476}|Dell_Extract_Cloud_CIQ_TUs.csproj|c:\\users\\maliao\\documents\\training-2025\\.net core\\dell_extract_cloud_ciq_tus\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{B6621BC0-B589-4EB7-A297-DFB6978B6476}|Dell_Extract_Cloud_CIQ_TUs.csproj|solutionrelative:nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -18,15 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Dell_Extract_Cloud_CIQ_TUs",
+              "DocumentMoniker": "C:\\Users\\maliao\\Documents\\Training-2025\\.NET Core\\Dell_Extract_Cloud_CIQ_TUs\\Dell_Extract_Cloud_CIQ_TUs.csproj",
+              "RelativeDocumentMoniker": "Dell_Extract_Cloud_CIQ_TUs.csproj",
+              "ToolTip": "C:\\Users\\maliao\\Documents\\Training-2025\\.NET Core\\Dell_Extract_Cloud_CIQ_TUs\\Dell_Extract_Cloud_CIQ_TUs.csproj",
+              "RelativeToolTip": "Dell_Extract_Cloud_CIQ_TUs.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-09T20:40:31.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "NLog.config",
-              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\Dell_Extract_Cloud_CIQ_TUs\\NLog.config",
+              "DocumentMoniker": "C:\\Users\\maliao\\Documents\\Training-2025\\.NET Core\\Dell_Extract_Cloud_CIQ_TUs\\NLog.config",
               "RelativeDocumentMoniker": "NLog.config",
-              "ToolTip": "E:\\Training\\2025\\.NET Core\\Dell_Extract_Cloud_CIQ_TUs\\NLog.config",
+              "ToolTip": "C:\\Users\\maliao\\Documents\\Training-2025\\.NET Core\\Dell_Extract_Cloud_CIQ_TUs\\NLog.config",
               "RelativeToolTip": "NLog.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -36,11 +55,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Training\\2025\\.NET Core\\Dell_Extract_Cloud_CIQ_TUs\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\maliao\\Documents\\Training-2025\\.NET Core\\Dell_Extract_Cloud_CIQ_TUs\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Training\\2025\\.NET Core\\Dell_Extract_Cloud_CIQ_TUs\\Program.cs",
+              "ToolTip": "C:\\Users\\maliao\\Documents\\Training-2025\\.NET Core\\Dell_Extract_Cloud_CIQ_TUs\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-19T22:50:00.8Z",
               "EditorCaption": ""

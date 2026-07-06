@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\",
+  "WorkspaceRootPath": "D:\\Training-2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88AC90BF-2047-4ACB-92B2-BF28A00EAEF4}|Default_NET_6.0_AspNetCoreMVC.csproj|e:\\training\\2025\\asp.net core mvc\\default_net_6.0_aspnetcoremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88AC90BF-2047-4ACB-92B2-BF28A00EAEF4}|Default_NET_6.0_AspNetCoreMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88AC90BF-2047-4ACB-92B2-BF28A00EAEF4}|Default_NET_6.0_AspNetCoreMVC.csproj|d:\\training-2025\\asp.net core mvc\\default_net_6.0_aspnetcoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88AC90BF-2047-4ACB-92B2-BF28A00EAEF4}|Default_NET_6.0_AspNetCoreMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88AC90BF-2047-4ACB-92B2-BF28A00EAEF4}|Default_NET_6.0_AspNetCoreMVC.csproj|e:\\training\\2025\\asp.net core mvc\\default_net_6.0_aspnetcoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88AC90BF-2047-4ACB-92B2-BF28A00EAEF4}|Default_NET_6.0_AspNetCoreMVC.csproj|d:\\training-2025\\asp.net core mvc\\default_net_6.0_aspnetcoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88AC90BF-2047-4ACB-92B2-BF28A00EAEF4}|Default_NET_6.0_AspNetCoreMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AC90BF-2047-4ACB-92B2-BF28A00EAEF4}|Default_NET_6.0_AspNetCoreMVC.csproj|d:\\training-2025\\asp.net core mvc\\default_net_6.0_aspnetcoremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AC90BF-2047-4ACB-92B2-BF28A00EAEF4}|Default_NET_6.0_AspNetCoreMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
@@ -47,10 +55,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Training-2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Training-2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T16:35:22.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\Training-2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Training-2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -61,9 +82,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\Program.cs",
+              "DocumentMoniker": "D:\\Training-2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\Program.cs",
+              "ToolTip": "D:\\Training-2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

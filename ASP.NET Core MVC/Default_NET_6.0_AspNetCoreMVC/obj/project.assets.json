@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\Default_NET_6.0_AspNetCoreMVC.csproj",
+      "projectUniqueName": "D:\\Training-2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\Default_NET_6.0_AspNetCoreMVC.csproj",
       "projectName": "Default_NET_6.0_AspNetCoreMVC",
-      "projectPath": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\Default_NET_6.0_AspNetCoreMVC.csproj",
+      "projectPath": "D:\\Training-2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\Default_NET_6.0_AspNetCoreMVC.csproj",
       "packagesPath": "C:\\Users\\maliao\\.nuget\\packages\\",
-      "outputPath": "E:\\Training\\2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\obj\\",
+      "outputPath": "D:\\Training-2025\\ASP.NET Core MVC\\Default_NET_6.0_AspNetCoreMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -53,7 +53,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net6.0": {
@@ -77,7 +77,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\RuntimeIdentifierGraph.json"
       }
     }
   }

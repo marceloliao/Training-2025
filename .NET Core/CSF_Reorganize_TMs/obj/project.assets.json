@@ -548,22 +548,23 @@
   },
   "packageFolders": {
     "C:\\Users\\maliao\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Training\\2025\\.NET Core\\CSF_Reorganize_TMs\\CSF_Reorganize_TMs.csproj",
+      "projectUniqueName": "C:\\Users\\maliao\\Documents\\Training-2025\\.NET Core\\CSF_Reorganize_TMs\\CSF_Reorganize_TMs.csproj",
       "projectName": "CSF_Reorganize_TMs",
-      "projectPath": "E:\\Training\\2025\\.NET Core\\CSF_Reorganize_TMs\\CSF_Reorganize_TMs.csproj",
+      "projectPath": "C:\\Users\\maliao\\Documents\\Training-2025\\.NET Core\\CSF_Reorganize_TMs\\CSF_Reorganize_TMs.csproj",
       "packagesPath": "C:\\Users\\maliao\\.nuget\\packages\\",
-      "outputPath": "E:\\Training\\2025\\.NET Core\\CSF_Reorganize_TMs\\obj\\",
+      "outputPath": "C:\\Users\\maliao\\Documents\\Training-2025\\.NET Core\\CSF_Reorganize_TMs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\maliao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -571,8 +572,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/sdl/_packaging/af66e256-9c46-4fba-ad75-09bf110ec1cc/nuget/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -589,7 +590,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -623,21 +625,31 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.27, 8.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.27, 8.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.27, 8.0.27]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.27, 8.0.27]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://pkgs.dev.azure.com/sdl/_packaging/af66e256-9c46-4fba-ad75-09bf110ec1cc/nuget/v3/index.json."
-    }
-  ]
+  }
 }

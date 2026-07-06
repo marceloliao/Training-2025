@@ -1,93 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\",
+  "WorkspaceRootPath": "D:\\Training-2025\\.NET Core\\C#_LINQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\models\\medicalstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:models\\medicalstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\models\\medicalstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:models\\medicalstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\notifysubscribers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\notifysubscribers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:notifysubscribers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\testallany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\testallany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:testallany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\testaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\testaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:testaggregate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\testcontains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\testcontains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:testcontains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\testselectmany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\testselectmany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:testselectmany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\testselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\testselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:testselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\testorderby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\testorderby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:testorderby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\testwhere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\testwhere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:testwhere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\testjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\testjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:testjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\testgroupby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\testgroupby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:testgroupby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\c#_linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\c#_linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:c#_linq.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\testgroupjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\testgroupjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:testgroupjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\testoftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\testoftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:testoftype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training\\2025\\.net core\\c#_linq\\testtolookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|d:\\training-2025\\.net core\\c#_linq\\testtolookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60C714D6-DE4E-4926-A713-CAC7A1431433}|C#_LINQ.csproj|solutionrelative:testtolookup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -101,7 +101,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Bookmark",
@@ -128,12 +128,16 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "TestAggregate.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestAggregate.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestAggregate.cs",
               "RelativeDocumentMoniker": "TestAggregate.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestAggregate.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestAggregate.cs",
               "RelativeToolTip": "TestAggregate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -143,9 +147,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "TestContains.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestContains.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestContains.cs",
               "RelativeDocumentMoniker": "TestContains.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestContains.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestContains.cs",
               "RelativeToolTip": "TestContains.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,9 +159,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "TestAllAny.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestAllAny.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestAllAny.cs",
               "RelativeDocumentMoniker": "TestAllAny.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestAllAny.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestAllAny.cs",
               "RelativeToolTip": "TestAllAny.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -167,9 +171,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "TestSelectMany.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestSelectMany.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestSelectMany.cs",
               "RelativeDocumentMoniker": "TestSelectMany.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestSelectMany.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestSelectMany.cs",
               "RelativeToolTip": "TestSelectMany.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAgwCYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,9 +183,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "TestSelect.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestSelect.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestSelect.cs",
               "RelativeDocumentMoniker": "TestSelect.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestSelect.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestSelect.cs",
               "RelativeToolTip": "TestSelect.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -189,11 +193,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Class.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\Models\\Class.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\Models\\Class.cs",
               "RelativeDocumentMoniker": "Models\\Class.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\Models\\Class.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\Models\\Class.cs",
               "RelativeToolTip": "Models\\Class.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -201,11 +205,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MedicalStudent.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\Models\\MedicalStudent.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\Models\\MedicalStudent.cs",
               "RelativeDocumentMoniker": "Models\\MedicalStudent.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\Models\\MedicalStudent.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\Models\\MedicalStudent.cs",
               "RelativeToolTip": "Models\\MedicalStudent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,9 +220,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "TestGroupJoin.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestGroupJoin.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestGroupJoin.cs",
               "RelativeDocumentMoniker": "TestGroupJoin.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestGroupJoin.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestGroupJoin.cs",
               "RelativeToolTip": "TestGroupJoin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -226,11 +230,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Course.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\Models\\Course.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\Models\\Course.cs",
               "RelativeDocumentMoniker": "Models\\Course.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\Models\\Course.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\Models\\Course.cs",
               "RelativeToolTip": "Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -240,9 +244,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "TestJoin.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestJoin.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestJoin.cs",
               "RelativeDocumentMoniker": "TestJoin.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestJoin.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestJoin.cs",
               "RelativeToolTip": "TestJoin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -252,9 +256,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "NotifySubscribers.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\NotifySubscribers.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\NotifySubscribers.cs",
               "RelativeDocumentMoniker": "NotifySubscribers.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\NotifySubscribers.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\NotifySubscribers.cs",
               "RelativeToolTip": "NotifySubscribers.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAgwCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -264,9 +268,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "TestToLookUp.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestToLookUp.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestToLookUp.cs",
               "RelativeDocumentMoniker": "TestToLookUp.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestToLookUp.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestToLookUp.cs",
               "RelativeToolTip": "TestToLookUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -276,9 +280,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "TestGroupBy.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestGroupBy.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestGroupBy.cs",
               "RelativeDocumentMoniker": "TestGroupBy.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestGroupBy.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestGroupBy.cs",
               "RelativeToolTip": "TestGroupBy.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -288,9 +292,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "TestOrderBy.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestOrderBy.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestOrderBy.cs",
               "RelativeDocumentMoniker": "TestOrderBy.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestOrderBy.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestOrderBy.cs",
               "RelativeToolTip": "TestOrderBy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -300,9 +304,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "TestOfType.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestOfType.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestOfType.cs",
               "RelativeDocumentMoniker": "TestOfType.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestOfType.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestOfType.cs",
               "RelativeToolTip": "TestOfType.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -312,9 +316,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "TestWhere.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestWhere.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestWhere.cs",
               "RelativeDocumentMoniker": "TestWhere.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\TestWhere.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\TestWhere.cs",
               "RelativeToolTip": "TestWhere.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwB4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -324,9 +328,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Teacher.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\Models\\Teacher.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "Models\\Teacher.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\Models\\Teacher.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\Models\\Teacher.cs",
               "RelativeToolTip": "Models\\Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -336,9 +340,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\Models\\Student.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\Models\\Student.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\Models\\Student.cs",
               "RelativeToolTip": "Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -356,23 +360,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\appsettings.json",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\appsettings.json",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-08T02:28:36.817Z"
+              "WhenOpened": "2025-05-08T02:28:36.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "C#_LINQ.csproj",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\C#_LINQ.csproj",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\C#_LINQ.csproj",
               "RelativeDocumentMoniker": "C#_LINQ.csproj",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\C#_LINQ.csproj",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\C#_LINQ.csproj",
               "RelativeToolTip": "C#_LINQ.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -382,9 +387,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -394,9 +399,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\Program.cs",
+              "DocumentMoniker": "D:\\Training-2025\\.NET Core\\C#_LINQ\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Training\\2025\\.NET Core\\C#_LINQ\\Program.cs",
+              "ToolTip": "D:\\Training-2025\\.NET Core\\C#_LINQ\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

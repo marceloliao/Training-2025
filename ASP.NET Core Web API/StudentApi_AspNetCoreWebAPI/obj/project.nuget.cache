@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oY+TVQXQvQ4=",
+  "dgSpecHash": "Q2O/IsTSpzE=",
   "success": true,
-  "projectFilePath": "D:\\Training\\2025\\ASP.NET Core Web API\\StudentApi_AspNetCoreWebAPI\\StudentApi_AspNetCoreWebAPI.csproj",
+  "projectFilePath": "D:\\Training-2025\\ASP.NET Core Web API\\StudentApi_AspNetCoreWebAPI\\StudentApi_AspNetCoreWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maliao\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\maliao\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
@@ -77,7 +77,7 @@
     "C:\\Users\\maliao\\.nuget\\packages\\system.io.pipelines\\9.0.5\\system.io.pipelines.9.0.5.nupkg.sha512",
     "C:\\Users\\maliao\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
     "C:\\Users\\maliao\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
-    "C:\\Users\\maliao\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\maliao\\.nuget\\packages\\system.reflection.metadata\\7.0.0\\system.reflection.metadata.7.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\maliao\\.nuget\\packages\\system.runtime.caching\\6.0.0\\system.runtime.caching.6.0.0.nupkg.sha512",
@@ -99,8 +99,10 @@
     {
       "code": "NU1701",
       "level": "Warning",
-      "warningLevel": 1,
       "message": "Package 'Microsoft.AspNet.WebApi.Core 5.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "projectPath": "D:\\Training-2025\\ASP.NET Core Web API\\StudentApi_AspNetCoreWebAPI\\StudentApi_AspNetCoreWebAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Training-2025\\ASP.NET Core Web API\\StudentApi_AspNetCoreWebAPI\\StudentApi_AspNetCoreWebAPI.csproj",
       "libraryId": "Microsoft.AspNet.WebApi.Core",
       "targetGraphs": [
         "net8.0"

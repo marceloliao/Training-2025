@@ -10,18 +10,19 @@
         car: {
           brand: "Ford",
           model: "Mustang",
+          color: "white",
         },
       };
 
       let {
         firstName,
         lastName,
-        car: { brand, model },
+        car: { brand, model,color },
       } = person;
 
       document.getElementById(
         "demo"
-      ).innerHTML = `${firstName} ${lastName}'car is a ${brand} ${model}.`;
+      ).innerHTML = `${firstName} ${lastName}'car is a ${brand} ${model} of ${color} color.`;
     </script>
   </body>
 </html>
